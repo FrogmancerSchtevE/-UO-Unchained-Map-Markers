@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<Pack Name="Spawns" Revision="0">
+<Marker Name="Destard" Facet="0" Icon="MOB1SA" X="4659" Y="2834"/>
+<Marker Name="Deceit" Facet="0" Icon="MOB1SA" X="5354" Y="2918"/>
+<Marker Name="Shame" Facet="0" Icon="MOB1SA" X="4660" Y="3235"/>
+<Marker Name="Shame" Facet="0" Icon="MOB1SA" X="4755" Y="3353"/>
+<Marker Name="Covetous" Facet="0" Icon="MOB1SA" X="5070" Y="2937"/>
+<Marker Name="Deceit" Facet="0" Icon="MOB1SA" X="5457" Y="2956"/>
+<Marker Name="Britain Lich" Facet="0" Icon="MOB1SA" X="1368" Y="1478"/>
+<Marker Name="Sandstorm" Facet="0" Icon="MOB1SA" X="5068" Y="2233"/>
+<Marker Name="Eventide" Facet="0" Icon="MOB1SA" X="5051" Y="1737"/>
+<Marker Name="Deceit" Facet="0" Icon="MOB1SA" X="5389" Y="2883"/>
+<Marker Name="Glacia" Facet="0" Icon="MOB1SA" X="4859" Y="2535"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="5420" Y="2961"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="4915" Y="2262"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="5537" Y="2962"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="4612" Y="3344"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="4652" Y="3135"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="4867" Y="3210"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="4767" Y="2746"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="4471" Y="2495"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="4800" Y="2838"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="4668" Y="2503"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="5056" Y="2494"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="4707" Y="2878"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="5298" Y="2482"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB2sp" X="5001" Y="2181"/>
+<Marker Name="Forest Guardian" Facet="0" Icon="MOB3nm" X="3718" Y="693"/>
+<Marker Name="Abyssal Guardian" Facet="0" Icon="MOB1SA" X="4682" Y="1813"/>
+
+  
+</Pack>

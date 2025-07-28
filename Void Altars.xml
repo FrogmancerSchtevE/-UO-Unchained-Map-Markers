@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Pack Name="Void Altars" Revision="0">
+ <Marker Name="Hydra" Facet="0" Icon="MOBBSA" X="1416" Y="2222"/>
+ <Marker Name="Elder Blood Elemental" Facet="0" Icon="MOBBSA" X="3625" Y="1599"/>
+<Marker Name="Exodus" Facet="0" Icon="MOBBSA" X="4796" Y="1264"/>
+<Marker Name="Forest Guardian" Facet="0" Icon="MOBBSA" X="1385" Y="1833"/>
+<Marker Name="Nymphyr" Facet="0" Icon="MOBBSA" X="1065" Y="1377"/>
+<Marker Name="Abaddon" Facet="0" Icon="MOBBSA" X="1854" Y="590"/>
+<Marker Name="Destard" Facet="0" Icon="MOBBSA" X="4673" Y="2825"/>
+<Marker Name="Vampire" Facet="0" Icon="MOBBSA" X="1240" Y="1601"/>
+<Marker Name="Dreadhorn" Facet="0" Icon="MOBBSA" X="1135" Y="2089"/>
+<Marker Name="Elder Giant" Facet="0" Icon="MOBBSA" X="5910" Y="1210"/>
+<Marker Name="Humility Altar" Facet="0" Icon="MOBBSA" X="2037" Y="1007"/>
+<Marker Name="Compassion Altar" Facet="0" Icon="MOBBSA" X="1910" Y="896"/>
+<Marker Name="Spirituality Altar" Facet="0" Icon="MOBBSA" X="1361" Y="946"/>
+<Marker Name="Chaos Altar" Facet="0" Icon="MOBBSA" X="462" Y="2197"/>
+</Pack>

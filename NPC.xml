@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<Pack Name="NPC" Revision="0">
+<Marker Name="Healer" Facet="0" Icon="Healer" X="1087" Y="959"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="621" Y="2250"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="391" Y="2019"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="216" Y="1347"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="727" Y="774"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="776" Y="416"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="2022" Y="240"/>
+<Marker Name="Bank" Facet="0" Icon="Bank" X="2279" Y="2738"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="2270" Y="2766"/>
+<Marker Name="Blacksmith" Facet="0" Icon="Blacksmith" X="2273" Y="2774"/>
+<Marker Name="Tailor" Facet="0" Icon="Tailor" X="2271" Y="2789"/>
+<Marker Name="Stable" Facet="0" Icon="Stable" X="2305" Y="2785"/>
+<Marker Name="Magic Shop" Facet="0" Icon="Mageshop" X="2304" Y="2741"/>
+<Marker Name="Fletcher (Cove)" Facet="0" Icon="Fletcher" X="815" Y="2736"/>
+<Marker Name="Shipwright" Facet="0" Icon="Shipwright" X="845" Y="2726"/>
+<Marker Name="Cove Mint" Facet="0" Icon="Bank" X="837" Y="2708"/>
+<Marker Name="Tailor" Facet="0" Icon="Tailor" X="848" Y="2688"/>
+<Marker Name="Provisioner" Facet="0" Icon="Provisioner" X="859" Y="2689"/>
+<Marker Name="Barracks" Facet="0" Icon="Warriors" X="883" Y="2675"/>
+<Marker Name="Blacksmith" Facet="0" Icon="Blacksmith" X="851" Y="2655"/>
+<Marker Name="Thieves Guildmaster" Facet="0" Icon="ThievesGuild" X="855" Y="2653"/>
+<Marker Name="Weaponsmith" Facet="0" Icon="Blacksmith" X="825" Y="2671"/>
+<Marker Name="Trader" Facet="0" Icon="Trader" X="829" Y="2691"/>
+<Marker Name="Mageshop" Facet="0" Icon="Mageshop" X="813" Y="2700"/>
+<Marker Name="Jewelry Shop" Facet="0" Icon="Jewelers" X="814" Y="2707"/>
+<Marker Name="Barracks" Facet="0" Icon="Bar" X="796" Y="2663"/>
+<Marker Name="Cook" Facet="0" Icon="Cook" X="816" Y="2616"/>
+<Marker Name="Carpenter" Facet="0" Icon="Carpenter" X="809" Y="2620"/>
+<Marker Name="Farmer" Facet="0" Icon="Farm" X="809" Y="2635"/>
+<Marker Name="Stable" Facet="0" Icon="Stable" X="880" Y="2712"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="1220" Y="2148"/>
+<Marker Name="Bucher" Facet="0" Icon="Butcher" X="739" Y="2347"/>
+<Marker Name="Farmer" Facet="0" Icon="Farmer" X="890" Y="2390"/>
+<Marker Name="John the Trader" Facet="0" Icon="Trader" X="1415" Y="1711"/>
+<Marker Name="Mapmaker" Facet="0" Icon="Mapmaker" X="1438" Y="1762"/>
+<Marker Name="Shipwright" Facet="0" Icon="Shipwright" X="1485" Y="1757"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="1475" Y="1722"/>
+<Marker Name="Mageshop" Facet="0" Icon="Mageshop" X="1495" Y="1692"/>
+<Marker Name="Stable" Facet="0" Icon="Stable" X="1456" Y="1708"/>
+<Marker Name="Tinker" Facet="0" Icon="Tinker" X="1477" Y="1683"/>
+<Marker Name="Provisioner" Facet="0" Icon="Provisioner" X="1473" Y="1690"/>
+<Marker Name="Tailor" Facet="0" Icon="Tailor" X="1469" Y="1669"/>
+<Marker Name="Jeweler" Facet="0" Icon="Jeweler" X="1476" Y="1667"/>
+<Marker Name="Alchemist" Facet="0" Icon="Alchemist" X="1500" Y="1661"/>
+<Marker Name="Training Hall" Facet="0" Icon="WarriorsGuild" X="1444" Y="1664"/>
+<Marker Name="Mageshop" Facet="0" Icon="Mage" X="1443" Y="1649"/>
+<Marker Name="Blacksmith" Facet="0" Icon="Blacksmith" X="1443" Y="1648"/>
+<Marker Name="Cook" Facet="0" Icon="Cook" X="1427" Y="1655"/>
+<Marker Name="Jeweler" Facet="0" Icon="Jeweler" X="1426" Y="1649"/>
+<Marker Name="Carpenter/Architect" Facet="0" Icon="Carpenter" X="1427" Y="1658"/>
+<Marker Name="Fletcher" Facet="0" Icon="Fletcher" X="1448" Y="1612"/>
+<Marker Name="Herbalist" Facet="0" Icon="Herbalist" X="1458" Y="1611"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="1479" Y="1618"/>
+<Marker Name="Blacksmith" Facet="0" Icon="Blacksmith" X="1508" Y="1612"/>
+<Marker Name="Jeweler" Facet="0" Icon="Jeweler" X="1509" Y="1598"/>
+<Marker Name="Mage Guildhall" Facet="0" Icon="Mage" X="1490" Y="1552"/>
+<Marker Name="Stable" Facet="0" Icon="Stable" X="1517" Y="1545"/>
+<Marker Name="Tinker" Facet="0" Icon="Tinker" X="1452" Y="1583"/>
+<Marker Name="Cook" Facet="0" Icon="Cook" X="1444" Y="1585"/>
+<Marker Name="Tailor" Facet="0" Icon="Tailor" X="1444" Y="1582"/>
+<Marker Name="Jewelry" Facet="0" Icon="Jeweler" X="1422" Y="1580"/>
+<Marker Name="The Rookery" Facet="0" Icon="Herbalist" X="1413" Y="1591"/>
+<Marker Name="Stable" Facet="0" Icon="Stable" X="1386" Y="1651"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="1266" Y="1557"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="1646" Y="1711"/>
+<Marker Name="Bank (Bucs Den)" Facet="0" Icon="Bank" X="1566" Y="2017"/>
+<Marker Name="Blacksmith" Facet="0" Icon="Blacksmith" X="1573" Y="2050"/>
+<Marker Name="Mage" Facet="0" Icon="Mage" X="1578" Y="2033"/>
+<Marker Name="Tailor" Facet="0" Icon="Tailor" X="1518" Y="2027"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="1517" Y="2015"/>
+<Marker Name="Stable" Facet="0" Icon="Stable" X="1511" Y="1997"/>
+<Marker Name="Cook" Facet="0" Icon="Cook" X="1564" Y="1999"/>
+<Marker Name="Provisioner" Facet="0" Icon="Provisioner" X="1572" Y="1998"/>
+<Marker Name="Fisherman" Facet="0" Icon="Fisherman" X="1567" Y="2007"/>
+<Marker Name="Animal Trainer" Facet="0" Icon="Stable" X="3836" Y="2331"/>  
+<Marker Name="Doom Shopkeeper" Facet="0" Icon="Inn" X="3785" Y="2379"/>
+<Marker Name="Animal Trainer" Facet="0" Icon="Stable" X="3785" Y="2383"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="3745" Y="2075"/>
+<Marker Name="Banker" Facet="0" Icon="Bank" X="3745" Y="2083"/>
+<Marker Name="Britain Bank" Facet="0" Icon="Bank" X="1428" Y="1683"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="1304" Y="1077"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="4962" Y="2164"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="4759" Y="2269"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="2254" Y="883"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="4129" Y="3178"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="4073" Y="3144"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="4040" Y="3238"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="4032" Y="3282"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="4066" Y="3313"/>
+<Marker Name="TrainingDummy" Facet="0" Icon="Default" X="4066" Y="3321"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="4237" Y="3753"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="4598" Y="2484"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="5366" Y="1294"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="5661" Y="1167"/>
+
+
+  
+</Pack>

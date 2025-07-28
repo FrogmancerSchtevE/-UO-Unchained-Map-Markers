@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<Pack Name="Ankhs" Revision="0">
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="3774" Y="2474"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="3882" Y="2428"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="3894" Y="2424"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="3878" Y="2492"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="3819" Y="2500"/>
+<Marker Name="Holy Ankh" Facet="0" Icon="Shrine" X="1166" Y="2156"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="4838" Y="3303"/>
+<Marker Name="Ankh" Facet="0" Icon="shrine" X="3732" Y="1330"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="3768" Y="969"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="3727" Y="561"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="3733" Y="293"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="4226" Y="731"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="4235" Y="835"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="4123" Y="1067"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="3701" Y="3642"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="3409" Y="3448"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="5210" Y="2171"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="5949" Y="631"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="5734" Y="219"/>
+<Marker Name="Ankh" Facet="0" Icon="Shrine" X="5377" Y="231"/>
+
+</Pack>

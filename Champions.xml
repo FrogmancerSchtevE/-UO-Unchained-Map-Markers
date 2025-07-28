@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Pack Name="Champions and Bosses" Revision="0">
+ <Marker Name="Harrower" Facet="0" Icon="DUNGEONX" X="3754" Y="2725"/>
+ <Marker Name="Arsenic" Facet="0" Icon="MOB3nm" X="3752" Y="2506"/>
+<Marker Name="Xenophebyr" Facet="0" Icon="MOB3nm" X="4927" Y="2134"/>
+<Marker Name="Pantheon" Facet="0" Icon="MOB3nm" X="5485" Y="2128"/>
+<Marker Name="Sandstorm Champion" Facet="0" Icon="MOBBNM" X="5604" Y="2140"/>
+<Marker Name="Tortuar" Facet="0" Icon="MOB3nm" X="3677" Y="1403"/>
+<Marker Name="Stygian Champion" Facet="0" Icon="MOBBNM" X="4267" Y="1821"/>
+<Marker Name="Altar" Facet="0" Icon="MOB3nm" X="4040" Y="2748"/>
+<Marker Name="Glacia Champion" Facet="0" Icon="MOBBNM" X="4722" Y="2420"/>
+<Marker Name="Exodus Demon" Facet="0" Icon="MOB3nm" X="5555" Y="2511"/>
+<Marker Name="Sombra" Facet="0" Icon="MOB3nm" X="4629" Y="1153"/>
+<Marker Name="Abyssal Guardian" Facet="0" Icon="MOB1SA" X="4682" Y="1813"/>
+<Marker Name="Eventide Champion" Facet="0" Icon="MOBBNM" X="5369" Y="1740"/>
+<Marker Name="Infernus" Facet="0" Icon="MOB3nm" X="5368" Y="1913"/>
+
+
+</Pack>

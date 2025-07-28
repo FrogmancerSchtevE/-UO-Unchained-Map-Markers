@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Pack Name="Shrines" Revision="0">
+ <Marker Name="Sacrifice" Facet="0" Icon="Shrinex" X="1137" Y="708"/>
+ <Marker Name="Honesty " Facet="0" Icon="Shrinex" X="542" Y="232"/>
+ <Marker Name="Valor" Facet="0" Icon="Shrinex" X="1452" Y="854"/>
+ <Marker Name="Compassion" Facet="0" Icon="Shrinex" X="1909" Y="895"/>
+ <Marker Name="Humility" Facet="0" Icon="Shrinex" X="2037" Y="1007"/>
+ <Marker Name="Justice" Facet="0" Icon="Shrinex" X="376" Y="1144"/>
+ 
+</Pack>

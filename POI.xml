@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<Pack Name="Points of Interest" Revision="0">
+<Marker Name="Fresh Spawn" Facet="0" Icon="Ankh" X="1518" Y="3569"/>
+<Marker Name="Over Pass" Facet="0" Icon="Bridge" X="1069" Y="907"/>
+<Marker Name="Decrepit Tower" Facet="0" Icon="Landmark" X="670" Y="429"/>
+<Marker Name="Desert Pond" Facet="0" Icon="Bodyofwater" X="2010" Y="819"/>
+<Marker Name="Crossroads" Facet="0" Icon="Landmark" X="2060" Y="805"/>
+<Marker Name="River outlet" Facet="0" Icon="Bodyofwater" X="2228" Y="877"/>
+<Marker Name="Bronto Head Beach" Facet="0" Icon="Landmark" X="2155" Y="994"/>
+<Marker Name="Frogmancer Tower" Facet="0" Icon="Landmark" X="2116" Y="1065"/>
+<Marker Name="Briitain Bog/Swamp" Facet="0" Icon="Landmarkx" X="2013" Y="1039"/>
+<Marker Name="Skara Brae Tower" Facet="0" Icon="Tower" X="1556" Y="2394"/>
+<Marker Name="Britain Pond" Facet="0" Icon="Bodyofwater" X="1286" Y="1799"/>
+<Marker Name="Skara Brae Cove" Facet="0" Icon="Bodyofwater" X="843" Y="1789"/>
+<Marker Name="Hidden Valley Cave" Facet="0" Icon="Terrain" X="791" Y="1840"/>
+<Marker Name="Hidden Valley" Facet="0" Icon="Terrain" X="708" Y="1887"/>
+<Marker Name="Hidden Valley Beach" Facet="0" Icon="Landmark" X="643" Y="1980"/>
+<Marker Name="Deadstall Temple" Facet="0" Icon="Landmark" X="362" Y="1953"/>
+<Marker Name="Broken Sand Shores" Facet="0" Icon="Landmark" X="377" Y="1752"/>
+<Marker Name="Orcish Cove" Facet="0" Icon="BodyOfWater" X="553" Y="1395"/>
+<Marker Name="Chieftens Hold" Facet="0" Icon="Landmarkx" X="587" Y="1473"/>
+<Marker Name="Warlords Hold" Facet="0" Icon="Landmarkx" X="634" Y="1487"/>
+<Marker Name="Orc Fort" Facet="0" Icon="Landmark" X="603" Y="1435"/>
+<Marker Name="Destroyed Guard Post" Facet="0" Icon="Landmark" X="724" Y="1477"/>
+<Marker Name="Occultist Ruins" Facet="0" Icon="Ruins" X="756" Y="1402"/>
+<Marker Name="Druids Grove" Facet="0" Icon="Landmark" X="367" Y="1183"/>
+<Marker Name="Miners Cave" Facet="0" Icon="Terrain" X="564" Y="999"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="581" Y="996"/>
+<Marker Name="Minoc" Facet="0" Icon="Landmark" X="690" Y="682"/>
+<Marker Name="Mining Camp" Facet="0" Icon="Tent" X="800" Y="697"/>
+<Marker Name="Smugglers Cove" Facet="0" Icon="ThievesGuild" X="1230" Y="1031"/>
+<Marker Name="Hermits Landing" Facet="0" Icon="Landmark" X="1145" Y="1139"/>
+<Marker Name="Hermit Ravine" Facet="0" Icon="Terrain" X="1624" Y="1188"/>
+<Marker Name="Guard Shack" Facet="0" Icon="smallhouse" X="1819" Y="723"/>
+<Marker Name="Dolphin Head Point" Facet="0" Icon="Landmark" X="1977" Y="510"/>
+<Marker Name="Crabclaw Points" Facet="0" Icon="Scenic" X="2047" Y="49"/>
+<Marker Name="Speartip Point" Facet="0" Icon="Scenic" X="2108" Y="19"/>
+<Marker Name="Sickle Point" Facet="0" Icon="Scenic" X="2240" Y="356"/>
+<Marker Name="The Steppe" Facet="0" Icon="Scenic" X="2198" Y="776"/>
+<Marker Name="Hank Trill Isle" Facet="0" Icon="Island" X="2141" Y="1351"/>
+<Marker Name="Treasure Isle" Facet="0" Icon="Island" X="2262" Y="1963"/>
+<Marker Name="Bleeding Skull Isle" Facet="0" Icon="Island" X="2174" Y="1895"/>
+<Marker Name="Charel Isle" Facet="0" Icon="Island" X="2842" Y="1742"/>
+<Marker Name="Delucca Tower" Facet="0" Icon="smallhouse" X="2056" Y="2886"/>
+<Marker Name="The Abbey" Facet="0" Icon="Landmark" X="891" Y="3030"/>
+<Marker Name="Fetid Pools" Facet="0" Icon="Landmark" X="1182" Y="2432"/>
+<Marker Name="Recluses Hovel" Facet="0" Icon="Scenic" X="1127" Y="2393"/>
+<Marker Name="Windblown Summit" Facet="0" Icon="Scenic" X="1087" Y="2258"/>
+<Marker Name="Minotaur Valley" Facet="0" Icon="Landmark" X="1246" Y="2258"/>
+<Marker Name="Doghead Beach" Facet="0" Icon="Landmarkx" X="1261" Y="2159"/>
+<Marker Name="Stone Castle" Facet="0" Icon="Landmark" X="1135" Y="2117"/>
+<Marker Name="Skara Farmsteads" Facet="0" Icon="Landmark" X="804" Y="2232"/>
+<Marker Name="Infested Campsite" Facet="0" Icon="Mobnmsmall" X="856" Y="1688"/>
+<Marker Name="Wildling Marsh" Facet="0" Icon="Mobnmsmall" X="1026" Y="1377"/>
+<Marker Name="Northwest Crossroad" Facet="0" Icon="Scenic" X="868" Y="1197"/>
+<Marker Name="Abandoned Barracks" Facet="0" Icon="Scenic" X="1035" Y="1084"/>
+<Marker Name="Forest Trail" Facet="0" Icon="Scenic" X="1278" Y="1414"/>
+<Marker Name="Ruined Stronghold" Facet="0" Icon="Ruins" X="1939" Y="1308"/>
+<Marker Name="Peaceful Plains" Facet="0" Icon="Landmark" X="2031" Y="1219"/>
+<Marker Name="Abandoned Mansion" Facet="0" Icon="Landmark" X="1809" Y="1516"/>
+<Marker Name="Welcome!!" Facet="0" Icon="Scenic" X="1518" Y="3569"/>
+<Marker Name="Guard Post" Facet="0" Icon="Landmark" X="957" Y="1764"/>
+<Marker Name="Aquaduct Temple" Facet="0" Icon="Landmark" X="703" Y="1650"/>
+<Marker Name="Placeholder Name" Facet="0" Icon="Landmark" X="172" Y="1313"/>
+<Marker Name="Double Tree Point" Facet="0" Icon="Landmark" X="1291" Y="1917"/>
+<Marker Name="Guapa's Splashpad" Facet="0" Icon="Bodyofwater" X="1213" Y="1892"/>
+<Marker Name="Exile Village" Facet="0" Icon="Mobnmsmall" X="1416" Y="2053"/>
+<Marker Name="Drake Nest" Facet="0" Icon="Mobnmsmall" X="366" Y="1478"/>
+<Marker Name="Delucca Graveyard" Facet="0" Icon="Graveyard" X="2273" Y="2859"/>
+<Marker Name="Harpys Valley" Facet="0" Icon="Mobnmsmall" X="1217" Y="2555"/>
+<Marker Name="Shadowkin Hill" Facet="0" Icon="Mobnmsmall" X="1044" Y="1434"/>
+<Marker Name="Undead Keep" Facet="0" Icon="Keep" X="1241" Y="1614"/>
+<Marker Name="Harpy Nest" Facet="0" Icon="Mobnmsmall" X="1402" Y="927"/>
+<Marker Name="Savage Peak" Facet="0" Icon="Mobnmsmall" X="1415" Y="732"/>
+<Marker Name="Pleasent Valley" Facet="0" Icon="Terrain" X="1152" Y="1961"/>
+<Marker Name="Britain Mausoleum" Facet="0" Icon="Graveyard" X="1387" Y="1437"/>
+<Marker Name="Britain Graveyard" Facet="0" Icon="Graveyard" X="1388" Y="1467"/>
+<Marker Name="Barracks" Facet="0" Icon="Landmark" X="747" Y="1302"/>
+<Marker Name="Stygian Keep" Facet="0" Icon="Landmark" X="1005" Y="927"/>
+<Marker Name="Witches Circle" Facet="0" Icon="scenic" X="1221" Y="2406"/>
+<Marker Name="Lava Hill" Facet="0" Icon="Landmark" X="1889" Y="593"/>
+<Marker Name="Frozen Fortress" Facet="0" Icon="Landmark" X="2599" Y="337"/>
+ <Marker Name="Altar of the Serpents" Facet="0" Icon="Shrinex" X="2179" Y="2821"/>
+
+</Pack>

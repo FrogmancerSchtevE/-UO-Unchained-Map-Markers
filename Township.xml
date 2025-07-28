@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Pack Name="Township" Revision="0">
+ <Marker Name="West Britain Bridge" Facet="0" Icon="Bridge" X="1385" Y="1750"/>
+ <Marker Name="Ravenloft Keep" Facet="0" Icon="Keep" X="1343" Y="1734"/>
+ <Marker Name="Community Event Stage" Facet="0" Icon="Landmark" X="1326" Y="1793"/>
+ <Marker Name="Community Event Portal" Facet="0" Icon="PLandmark" X="1327" Y="1804"/>
+ <Marker Name="Britain Farm #2" Facet="0" Icon="kingsfaire" X="1222" Y="1723"/>
+ <Marker Name="Britain Farm #1" Facet="0" Icon="kingsfaire" X="1198" Y="1822"/>
+ <Marker Name="Britain Farm #3" Facet="0" Icon="kingsfaire" X="1190" Y="1683"/>
+ <Marker Name="Britain Farm #4" Facet="0" Icon="kingsfaire" X="1118" Y="1623"/>
+ <Marker Name="Britain Farm #5" Facet="0" Icon="kingsfaire" X="1151" Y="1574"/>
+ <Marker Name="Damaged Bridge" Facet="0" Icon="Bridge" X="791" Y="1846"/>
+ <Marker Name="Chaos Dock" Facet="0" Icon="Docks" X="600" Y="2262"/>
+ <Marker Name="Deadstall Lookout" Facet="0" Icon="Landmark" X="387" Y="2021"/>
+ <Marker Name="Buccaneers Pier" Facet="0" Icon="Island" X="2167" Y="1942"/>
+ <Marker Name="Delucca Southgate" Facet="0" Icon="Gate" X="2291" Y="2805"/>
+ <Marker Name="Delucca Westgate" Facet="0" Icon="Gate" X="2261" Y="2748"/>
+ <Marker Name="Cove Southgate" Facet="0" Icon="Gate" X="824" Y="2752"/>
+ <Marker Name="Cove Maingate" Facet="0" Icon="Gate" X="892" Y="2704"/>
+ <Marker Name="Skara Farm 1" Facet="0" Icon="kingsfaire" X="843" Y="2352"/>
+ <Marker Name="Skara Farm 2" Facet="0" Icon="kingsfaire" X="822" Y="2355"/>
+ <Marker Name="Britain Zoo" Facet="0" Icon="Zoo" X="1545" Y="1601"/>
+ <Marker Name="Questers Hall" Facet="0" Icon="MIB" X="1433" Y="1714"/>
+ <Marker Name="North Britain Gate" Facet="0" Icon="Gate" X="1431" Y="1539"/>
+ <Marker Name="Dock" Facet="0" Icon="Shipwright" X="1606" Y="2020"/>
+ <Marker Name="Britain West Gate" Facet="0" Icon="Gate" X="1305" Y="1625"/>
+ <Marker Name="Unclaimed Keep" Facet="0" Icon="Keep" X="1327" Y="1664"/>
+ <Marker Name="City Keep" Facet="0" Icon="Keep" X="1329" Y="1591"/>
+ <Marker Name="Britain Mansion" Facet="0" Icon="twostory" X="1378" Y="1585"/>
+<Marker Name="Britain North Gate" Facet="0" Icon="gate" X="1356" Y="1569"/>
+<Marker Name="Chateua Du Lac" Facet="0" Icon="twostory" X="1467" Y="1520"/>
+<Marker Name="Counsel Hall" Facet="0" Icon="magesguild" X="1503" Y="1521"/>
+<Marker Name="Guild Hall" Facet="0" Icon="Guild" X="1444" Y="1218"/>
+<Marker Name="Guildhall" Facet="0" Icon="Guild" X="1731" Y="1063"/>
+
+</Pack>

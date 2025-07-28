@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Pack Name="Inner Dungeon" Revision="0">
+<Marker Name="First Room" Facet="0" Icon="Landmark" X="3906" Y="2434"/>
+<Marker Name="Second Room" Facet="0" Icon="Landmark" X="3892" Y="2516"/>
+<Marker Name="Third Room" Facet="0" Icon="Landmark" X="3823" Y="2529"/>
+<Marker Name="Fourth Room" Facet="0" Icon="Landmark" X="3752" Y="2506"/>
+<Marker Name="Fifth Room" Facet="0" Icon="Landmark" X="3747" Y="2433"/>
+<Marker Name="Doom" Facet="0" Icon="Dungeon" X="3839" Y="2430"/>
+<Marker Name="Entrance/exit" Facet="0" Icon="exit" X="3880" Y="2093"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="3796" Y="1621"/>
+<Marker Name="Exit" Facet="0" Icon="Exit" X="4049" Y="2855"/>
+<Marker Name="Exit" Facet="0" Icon="Exit" X="4856" Y="3437"/>
+<Marker Name="Stairs" Facet="0" Icon="stairs" X="4706" Y="3380"/>
+<Marker Name="Hidden Passage" Facet="0" Icon="tosideroom" X="4690" Y="3394"/>
+<Marker Name="Hidden Passage" Facet="0" Icon="tosideroom" X="4663" Y="3341"/>
+<Marker Name="UP" Facet="0" Icon="Exit" X="4954" Y="2282"/>
+<Marker Name="Down" Facet="0" Icon="tobossroom" X="4959" Y="2122"/>
+<Marker Name="Up" Facet="0" Icon="stairs" X="5489" Y="2174"/>
+<Marker Name="Passage" Facet="0" Icon="Exit" X="4965" Y="2210"/>
+<Marker Name="Exit" Facet="0" Icon="Exit" X="5603" Y="2175"/>
+<Marker Name="Champion Room" Facet="0" Icon="Tobossroom" X="5033" Y="2156"/>
+<Marker Name="Hidden Chamber" Facet="0" Icon="Exit" X="5043" Y="2195"/>
+<Marker Name="Ladders" Facet="0" Icon="Exit" X="5192" Y="2227"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="4774" Y="2272"/>
+<Marker Name="Hidden Passage" Facet="0" Icon="exit" X="4759" Y="2154"/>
+<Marker Name="Hidden Passage" Facet="0" Icon="Exit" X="4738" Y="2154"/>
+<Marker Name="Down" Facet="0" Icon="tosideroom" X="4636" Y="2176"/>
+<Marker Name="Stairs" Facet="0" Icon="stairs" X="3653" Y="1532"/>
+<Marker Name="Underwater Passage" Facet="0" Icon="Exit" X="3684" Y="1530"/>
+<Marker Name="Ramp Down" Facet="0" Icon="Stairs" X="3705" Y="1442"/>
+<Marker Name="Stairs Down" Facet="0" Icon="Stairs" X="3662" Y="1439"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="4034" Y="3286"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="4067" Y="3333"/>
+<Marker Name="Down" Facet="0" Icon="tosideroom" X="4861" Y="2415"/>
+<Marker Name="Exit" Facet="0" Icon="tosideroom" X="5057" Y="2551"/>
+<Marker Name="Hidden Stairs" Facet="0" Icon="stairs" X="5004" Y="2506"/>
+<Marker Name="Down" Facet="0" Icon="tosideroom" X="4642" Y="2474"/>
+<Marker Name="Exit" Facet="0" Icon="tosideroom" X="5347" Y="2481"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="4888" Y="2535"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="4420" Y="2446"/>
+<Marker Name="Frozen Temple" Facet="0" Icon="scenic" X="4562" Y="2424"/>
+<Marker Name="Down" Facet="0" Icon="Tobossroom" X="4651" Y="2356"/>
+<Marker Name="Frozen Throne" Facet="0" Icon="Scenic" X="5451" Y="2498"/>
+<Marker Name="Wyrms Roost" Facet="0" Icon="scenic" X="4615" Y="2382"/>
+<Marker Name="Frozen Cavern" Facet="0" Icon="scenic" X="4660" Y="2583"/>
+<Marker Name="Crystal Tomb" Facet="0" Icon="scenic" X="4859" Y="2434"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="4632" Y="1225"/>
+<Marker Name="Poisoned Water" Facet="0" Icon="Scenic" X="4568" Y="1308"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="4538" Y="1262"/>
+<Marker Name="Sand Pit" Facet="0" Icon="scenic" X="4630" Y="1295"/>
+<Marker Name="Giants Rest" Facet="0" Icon="Scenic" X="4722" Y="1260"/>
+<Marker Name="Ritual Site" Facet="0" Icon="scenic" X="4713" Y="1340"/>
+<Marker Name="Exit" Facet="0" Icon="Exit" X="4627" Y="1133"/>
+<Marker Name="Boss Room" Facet="0" Icon="tobossroom" X="4668" Y="1354"/>
+<Marker Name="Hollow Hall" Facet="0" Icon="Scenic" X="4628" Y="1339"/>
+<Marker Name="Shadow Altar" Facet="0" Icon="scenic" X="4581" Y="1337"/>
+<Marker Name="Passage" Facet="0" Icon="exit" X="4652" Y="1316"/>
+<Marker Name="Passage" Facet="0" Icon="exit" X="4641" Y="1296"/>
+<Marker Name="Passage" Facet="0" Icon="exit" X="4662" Y="1263"/>  
+<Marker Name="To Boss" Facet="0" Icon="tobossroom" X="4857" Y="1600"/>
+<Marker Name="Stygian Fort" Facet="0" Icon="Scenic" X="5160" Y="1671"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="5171" Y="1771"/>
+<Marker Name="To Champion" Facet="0" Icon="tobossroom" X="5014" Y="1827"/>
+<Marker Name="Backdoor" Facet="0" Icon="tosurface" X="4835" Y="1840"/>
+<Marker Name="Stygian Guard Post" Facet="0" Icon="scenic" X="4809" Y="1735"/>
+<Marker Name="Crypt" Facet="0" Icon="stairs" X="4827" Y="1724"/>
+<Marker Name="Skullfire" Facet="0" Icon="Scenic" X="4856" Y="1683"/>
+<Marker Name="Lava Bridge" Facet="0" Icon="Bridge" X="5030" Y="1689"/>
+<Marker Name="Exit" Facet="0" Icon="exit" X="4623" Y="1765"/>
+<Marker Name="To Dungeon" Facet="0" Icon="tosideroom" X="5212" Y="2178"/>
+<Marker Name="Sideroom" Facet="0" Icon="tosideroom" X="5010" Y="2252"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="5272" Y="2168"/>
+
+
+</Pack>

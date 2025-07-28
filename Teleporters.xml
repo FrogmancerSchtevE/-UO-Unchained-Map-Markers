@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<Pack Name="Teleporters" Revision="0">
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3887" Y="2428"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3878" Y="2494"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3819" Y="2502"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3773" Y="2476"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3777" Y="2433"/>
+<Marker Name="Teleporter" Facet="0" Icon="teleporter" X="3806" Y="2407"/>
+<Marker Name="To: &lt;Place Holder&gt;" Facet="0" Icon="Teleporter" X="1546" Y="2030"/>
+<Marker Name="Teleporter" Facet="0" Icon="teleporter" X="4719" Y="3331"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3727" Y="1485"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3762" Y="1450"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="4928" Y="2207"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="4736" Y="2203"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3738" Y="1536"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3776" Y="717"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3696" Y="695"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3687" Y="705"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3723" Y="729"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3778" Y="179"/>
+<Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3801" Y="164"/>
+<Marker Name="Hellgate" Facet="0" Icon="moongatex" X="4866" Y="1931"/>
+
+
+</Pack>

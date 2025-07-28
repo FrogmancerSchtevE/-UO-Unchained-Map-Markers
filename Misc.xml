@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<Pack Name="misc" Revision="0">
+<Marker Name="Heart Bay" Facet="0" Icon="bodyofwater" X="2194" Y="542"/>
+<Marker Name="Windmill" Facet="0" Icon="Landmark" X="783" Y="2250"/> 
+<Marker Name="Prison Cage" Facet="0" Icon="Mobnmsmall" X="1095" Y="911"/>
+<Marker Name="Abadondoned House" Facet="0" Icon="Landmark" X="923" Y="423"/>
+<Marker Name="Abandoned Blacksmith" Facet="0" Icon="Blacksmith" X="917" Y="399"/>
+<Marker Name="Apiary" Facet="0" Icon="Beekeper" X="928" Y="379"/>
+<Marker Name="Ice Altar" Facet="0" Icon="Landmark" X="893" Y="294"/>
+<Marker Name="Ice Dueling" Facet="0" Icon="Gem" X="901" Y="223"/>
+<Marker Name="Stairs" Facet="0" Icon="Stairs down" X="1480" Y="2405"/>
+<Marker Name="Stairs" Facet="0" Icon="Stairs Down" X="1562" Y="2401"/>
+<Marker Name="Tunnel" Facet="0" Icon="Landmark" X="392" Y="1971"/>
+<Marker Name="Ocean Duel" Facet="0" Icon="Gem" X="259" Y="1591"/>
+<Marker Name="Bridge of Shame" Facet="0" Icon="Bridge" X="291" Y="1362"/>
+<Marker Name="Iceland Bridge" Facet="0" Icon="Bridge" X="764" Y="377"/>
+<Marker Name="Ice Dueling" Facet="0" Icon="Gem" X="902" Y="224"/>
+<Marker Name="Oasis" Facet="0" Icon="bodyofwater" X="1976" Y="859"/>
+<Marker Name="Rope Bridge" Facet="0" Icon="Bridge" X="2237" Y="2854"/>
+<Marker Name="Outlaw Dock" Facet="0" Icon="Docks" X="804" Y="2878"/>
+<Marker Name="Champions Bridge" Facet="0" Icon="Bridge" X="979" Y="2680"/>
+<Marker Name="Shallow Water Bridge" Facet="0" Icon="Bridge" X="1098" Y="2577"/>
+<Marker Name="The &quot;Wagon&quot; station" Facet="0" Icon="BodyofWater" X="1132" Y="2635"/>
+<Marker Name="Waterfall Overlook" Facet="0" Icon="Bridge" X="1101" Y="2309"/>
+<Marker Name="Rotting Bridge" Facet="0" Icon="Bridge" X="938" Y="2155"/>
+<Marker Name="Britain Park" Facet="0" Icon="Scenic" X="1474" Y="1589"/>
+<Marker Name="Isolated Pond" Facet="0" Icon="Bodyofwater" X="1750" Y="1482"/>
+<Marker Name="Dueling Pits" Facet="0" Icon="Gem" X="1391" Y="1698"/>
+<Marker Name="Jail!! Womp Womp" Facet="0" Icon="gate" X="1517" Y="3809"/> 
+<Marker Name="Hidden Chamber" Facet="0" Icon="Cave" X="775" Y="1928"/>
+<Marker Name="Gripperhead Beach" Facet="0" Icon="Landmark" X="126" Y="1476"/>
+<Marker Name="Passage" Facet="0" Icon="ruins" X="1079" Y="2153"/>
+<Marker Name="Skara Bay" Facet="0" Icon="bodyofwater" X="798" Y="2038"/>
+<Marker Name="Stygian Keep East Gate" Facet="0" Icon="Gate" X="1068" Y="866"/>
+<Marker Name="Stygian Keep South Gate" Facet="0" Icon="Gate" X="968" Y="1000"/>
+<Marker Name="Bridge" Facet="0" Icon="bridge" X="1230" Y="936"/>
+<Marker Name="Ogres Cave" Facet="0" Icon="terrain" X="1543" Y="1072"/>
+
+
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="662" Y="909"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="669" Y="845"/>
+<Marker Name="Cave" Facet="0" Icon="terrain" X="830" Y="331"/>
+<Marker Name="Cave" Facet="0" Icon="terrain" X="643" Y="345"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="1317" Y="1885"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="772" Y="1695"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="356" Y="1461"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="996" Y="1602"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="1178" Y="1479"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="1312" Y="2558"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="1166" Y="2534"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="1550" Y="1757"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="829" Y="2611"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="1813" Y="850"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="1991" Y="262"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="774" Y="668"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="821" Y="623"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="746" Y="306"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="741" Y="285"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="725" Y="278"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="689" Y="235"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="658" Y="263"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="620" Y="387"/>
+<Marker Name="Cave" Facet="0" Icon="Terrain" X="1375" Y="1858"/> 
+<Marker Name="Cave" Facet="0" Icon="terrain" X="1264" Y="1252"/>
+<Marker Name="Cave" Facet="0" Icon="terrain" X="1823" Y="1030"/>
+
+
+
+ </Pack>

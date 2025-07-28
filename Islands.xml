@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Pack Name="Islands" Revision="0">
+  <Marker Name="Isle" Facet="0" Icon="Island" X="1025" Y="612"/>
+  <Marker Name="Robin Hood Isle" Facet="0" Icon="Island" X="3150" Y="2469"/>
+  <Marker Name="Frozen Isle" Facet="0" Icon="Island" X="2605" Y="300"/>
+  <Marker Name="Chaos Island" Facet="0" Icon="shrinex" X="553" Y="2224"/>
+  <Marker Name="Quiet Pergola" Facet="0" Icon="Bodyofwater" X="558" Y="1242"/>
+  <Marker Name="Frog Island" Facet="0" Icon="Island" X="437" Y="718"/>
+  <Marker Name="Sparrows Island" Facet="0" Icon="Island" X="1900" Y="2972"/>
+  <Marker Name="Insayian Island" Facet="0" Icon="Island" X="1658" Y="3122"/>
+  <Marker Name="McGee Island" Facet="0" Icon="Island" X="1075" Y="3226"/>
+  <Marker Name="Abbey Island" Facet="0" Icon="Island" X="913" Y="3030"/>
+  <Marker Name="Harpys Roost" Facet="0" Icon="Island" X="1217" Y="2697"/>
+  <Marker Name="Amiibo Island" Facet="0" Icon="Island" X="1705" Y="1989"/>
+  
+</Pack>

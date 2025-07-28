@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Pack Name="Quest" Revision="0">
+<Marker Name="Ogre Valley Entrance" Facet="0" Icon="Gate" X="1125" Y="1892"/>
+<Marker Name="Sasha The Archaelogist" Facet="0" Icon="Other" X="1833" Y="953"/>
+<Marker Name="Poisonous Thorns" Facet="0" Icon="Other" X="92" Y="2321"/>
+<Marker Name="Petrified" Facet="0" Icon="Other" X="1135" Y="2117"/>
+<Marker Name="Savage Peak" Facet="0" Icon="Other" X="1415" Y="732"/>
+
+</Pack>
