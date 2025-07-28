@@ -1,6 +1,11 @@
 # -UO-Unchained-Map-Markers
 A repository for the player made map markers and icons for the private Ultima Online server, UO Unchained. 
 
+Installation:
+Clone this into your UO Unchained Data>Client folder. In game you'll have to reload mapicons or do a client restart to get them to function
+Ultima Online Unchained\Data\Client
+
+*************************************************
 
 A comprehensive, modular system of XML-based map markers and icons tailored for Ultima Online mapping tools like Razor Enhanced, UO Cartographer, and custom server UIs.
 
