@@ -12,7 +12,7 @@
 <Marker Name="Blacksmith" Facet="0" Icon="Blacksmith" X="2273" Y="2774"/>
 <Marker Name="Tailor" Facet="0" Icon="Tailor" X="2271" Y="2789"/>
 <Marker Name="Stable" Facet="0" Icon="Stable" X="2305" Y="2785"/>
-<Marker Name="Magic Shop" Facet="0" Icon="Mageshop" X="2304" Y="2741"/>
+<Marker Name="Magic Shop" Facet="0" Icon="Mage" X="2304" Y="2741"/>
 <Marker Name="Fletcher (Cove)" Facet="0" Icon="Fletcher" X="815" Y="2736"/>
 <Marker Name="Shipwright" Facet="0" Icon="Shipwright" X="845" Y="2726"/>
 <Marker Name="Cove Mint" Facet="0" Icon="Bank" X="837" Y="2708"/>
@@ -23,7 +23,7 @@
 <Marker Name="Thieves Guildmaster" Facet="0" Icon="ThievesGuild" X="855" Y="2653"/>
 <Marker Name="Weaponsmith" Facet="0" Icon="Blacksmith" X="825" Y="2671"/>
 <Marker Name="Trader" Facet="0" Icon="Trader" X="829" Y="2691"/>
-<Marker Name="Mageshop" Facet="0" Icon="Mageshop" X="813" Y="2700"/>
+<Marker Name="Mageshop" Facet="0" Icon="Mage" X="813" Y="2700"/>
 <Marker Name="Jewelry Shop" Facet="0" Icon="Jewelers" X="814" Y="2707"/>
 <Marker Name="Barracks" Facet="0" Icon="Bar" X="796" Y="2663"/>
 <Marker Name="Cook" Facet="0" Icon="Cook" X="816" Y="2616"/>
@@ -37,9 +37,9 @@
 <Marker Name="Mapmaker" Facet="0" Icon="Mapmaker" X="1438" Y="1762"/>
 <Marker Name="Shipwright" Facet="0" Icon="Shipwright" X="1485" Y="1757"/>
 <Marker Name="Healer" Facet="0" Icon="Healer" X="1475" Y="1722"/>
-<Marker Name="Mageshop" Facet="0" Icon="Mageshop" X="1495" Y="1692"/>
+<Marker Name="Mageshop" Facet="0" Icon="Mage" X="1495" Y="1692"/>
 <Marker Name="Stable" Facet="0" Icon="Stable" X="1456" Y="1708"/>
-<Marker Name="Fisherman" Facet="0" Icon="Fisherman" X="1477" Y="1683"/>
+<Marker Name="Fisherman" Facet="0" Icon="Fishermansguild" X="1477" Y="1683"/>
 <Marker Name="Provisioner" Facet="0" Icon="Provisioner" X="1473" Y="1690"/>
 <Marker Name="Tailor" Facet="0" Icon="Tailor" X="1469" Y="1669"/>
 <Marker Name="Jeweler" Facet="0" Icon="Jeweler" X="1476" Y="1667"/>
@@ -73,7 +73,7 @@
 <Marker Name="Stable" Facet="0" Icon="Stable" X="1511" Y="1997"/>
 <Marker Name="Cook" Facet="0" Icon="Cook" X="1564" Y="1999"/>
 <Marker Name="Provisioner" Facet="0" Icon="Provisioner" X="1572" Y="1998"/>
-<Marker Name="Fisherman" Facet="0" Icon="Fisherman" X="1567" Y="2007"/>
+<Marker Name="Fisherman" Facet="0" Icon="Fishermansguild" X="1567" Y="2007"/>
 <Marker Name="Animal Trainer" Facet="0" Icon="Stable" X="3836" Y="2331"/>  
 <Marker Name="Doom Shopkeeper" Facet="0" Icon="Inn" X="3785" Y="2379"/>
 <Marker Name="Animal Trainer" Facet="0" Icon="Stable" X="3785" Y="2383"/>
