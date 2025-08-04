@@ -6,10 +6,8 @@
 <Marker Name="Ice Moongate" Facet="0" Icon="Moongate" X="847" Y="212"/>
 <Marker Name="Sandstorm Moongate" Facet="0" Icon="Moongate" X="1832" Y="945"/>
 <Marker Name="Delucca Moongate" Facet="0" Icon="Moongate" X="2288" Y="2760"/>
-<Marker Name="Somesorta Portal" Facet="0" Icon="Moongate" X="2167" Y="2918"/>
 <Marker Name="Birthing Gate" Facet="0" Icon="Moongate" X="1518" Y="3536"/>
 <Marker Name="Portal to Mainland" Facet="0" Icon="Moongate" X="3849" Y="2326"/>
-<Marker Name="Moongate" Facet="0" Icon="Moongate" X="847" Y="212"/>
 <Marker Name="Frozen Isle Moongate" Facet="0" Icon="Moongate" X="2524" Y="263"/>
 <Marker Name="To: &lt;Place Holder&gt;" Facet="0" Icon="Moongate" X="1003" Y="1935"/>
 <Marker Name="Doom Dungeon Portal" Facet="0" Icon="Moongate" X="537" Y="2207"/>
@@ -18,8 +16,6 @@
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="1357" Y="1626"/>
 <Marker Name="Moongate" Facet="0" Icon="moongate" X="3751" Y="2083"/>
 <Marker Name="Britan Bank Moongate" Facet="0" Icon="moongate" X="1419" Y="1678"/>
-<Marker Name="Moongate" Facet="0" Icon="moongate" X="1995" Y="73"/>
-<Marker Name="Moongate" Facet="0" Icon="moongate" X="4788" Y="3361"/>
 <Marker Name="Moongate" Facet="0" Icon="moongate" X="4983" Y="2145"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="3747" Y="1333"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="3761" Y="970"/>
@@ -36,5 +32,10 @@
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="5949" Y="634"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="5730" Y="218"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="5377" Y="224"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="5404" Y="2881"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="5257" Y="543"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="4865" Y="2511"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="5529" Y="2931"/>
+<Marker Name="Exit" Facet="0" Icon="Moongate" X="5396" Y="3198"/>
 
 </Pack>

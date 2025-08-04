@@ -34,7 +34,6 @@
 <Marker Name="Stygian Keep East Gate" Facet="0" Icon="Gate" X="1068" Y="866"/>
 <Marker Name="Stygian Keep South Gate" Facet="0" Icon="Gate" X="968" Y="1000"/>
 <Marker Name="Bridge" Facet="0" Icon="bridge" X="1230" Y="936"/>
-<Marker Name="Ogres Cave" Facet="0" Icon="terrain" X="1543" Y="1072"/>
 
 
 <Marker Name="Cave" Facet="0" Icon="Terrain" X="662" Y="909"/>
@@ -63,6 +62,7 @@
 <Marker Name="Cave" Facet="0" Icon="Terrain" X="1375" Y="1858"/> 
 <Marker Name="Cave" Facet="0" Icon="terrain" X="1264" Y="1252"/>
 <Marker Name="Cave" Facet="0" Icon="terrain" X="1823" Y="1030"/>
+<Marker Name="Cave" Facet="0" Icon="terrain" X="1996" Y="81"/>
 
 
 

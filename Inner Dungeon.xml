@@ -14,7 +14,6 @@
 <Marker Name="Hidden Passage" Facet="0" Icon="tosideroom" X="4690" Y="3394"/>
 <Marker Name="Hidden Passage" Facet="0" Icon="tosideroom" X="4663" Y="3341"/>
 <Marker Name="UP" Facet="0" Icon="Exit" X="4954" Y="2282"/>
-<Marker Name="Down" Facet="0" Icon="tobossroom" X="4959" Y="2122"/>
 <Marker Name="Up" Facet="0" Icon="stairs" X="5489" Y="2174"/>
 <Marker Name="Passage" Facet="0" Icon="Exit" X="4965" Y="2210"/>
 <Marker Name="Exit" Facet="0" Icon="Exit" X="5603" Y="2175"/>
@@ -24,7 +23,6 @@
 <Marker Name="Exit" Facet="0" Icon="tosurface" X="4774" Y="2272"/>
 <Marker Name="Hidden Passage" Facet="0" Icon="exit" X="4759" Y="2154"/>
 <Marker Name="Hidden Passage" Facet="0" Icon="Exit" X="4738" Y="2154"/>
-<Marker Name="Down" Facet="0" Icon="tosideroom" X="4636" Y="2176"/>
 <Marker Name="Stairs" Facet="0" Icon="stairs" X="3653" Y="1532"/>
 <Marker Name="Underwater Passage" Facet="0" Icon="Exit" X="3684" Y="1530"/>
 <Marker Name="Ramp Down" Facet="0" Icon="Stairs" X="3705" Y="1442"/>
@@ -71,5 +69,22 @@
 <Marker Name="Sideroom" Facet="0" Icon="tosideroom" X="5010" Y="2252"/>
 <Marker Name="Exit" Facet="0" Icon="tosurface" X="5272" Y="2168"/>
 
+<Marker Name="Hellfire Gate" Facet="0" Icon="Moongatex" X="5519" Y="2919"/>
+<Marker Name="To Boss" Facet="0" Icon="tobossroom" X="5533" Y="3005"/>
+<Marker Name="Stairs Up" Facet="0" Icon="stairs" X="5506" Y="2872"/>
+<Marker Name="Down" Facet="0" Icon="Teleporter" X="5546" Y="2802"/>
+<Marker Name="Dungeon Exit" Facet="0" Icon="tosurface" X="5569" Y="2797"/>
+<Marker Name="UP" Facet="0" Icon="Teleporter" X="5337" Y="2873"/>
+<Marker Name="Down" Facet="0" Icon="Stairs" X="5418" Y="2986"/>
+<Marker Name="UP" Facet="0" Icon="stairs" X="5505" Y="2753"/>
+<Marker Name="Down" Facet="0" Icon="stairs" X="5417" Y="2810"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="5387" Y="2863"/>
+<Marker Name="To Champion" Facet="0" Icon="tobossroom" X="5447" Y="2891"/>
+<Marker Name="Tunnel" Facet="0" Icon="secretpassage" X="4253" Y="3681"/>
+<Marker Name="Tunnel" Facet="0" Icon="secretpassage" X="4263" Y="3666"/>
+<Marker Name="Stairs" Facet="0" Icon="stairs" X="4595" Y="2861"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="4577" Y="2192"/>
+<Marker Name="Down" Facet="0" Icon="tosideroom" X="4603" Y="2160"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="5467" Y="3202"/>
 
 </Pack>

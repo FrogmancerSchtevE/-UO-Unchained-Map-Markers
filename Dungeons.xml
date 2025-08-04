@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <Pack Name="Dungeons" Revision="0">
-<Marker Name="Glacia Entrance" Facet="0" Icon="Dungeon" X="1996" Y="81"/>
 <Marker Name="Glacia Backdoor?" Facet="0" Icon="Dungeon" X="576" Y="377"/>
 <Marker Name="Deceit Entrance" Facet="0" Icon="Dungeon" X="1450" Y="1367"/>
 <Marker Name="Cave Entrance" Facet="0" Icon="Dungeon" X="518" Y="2248"/>
@@ -16,6 +15,7 @@
 <Marker Name="Sandstorm Entrance" Facet="0" Icon="dungeon" X="1831" Y="949"/>
 <Marker Name="Wrong Entrance" Facet="0" Icon="Dungeon" X="2042" Y="214"/>
 <Marker Name="Wrong Backdoor" Facet="0" Icon="Dungeon" X="2061" Y="173"/>
+<Marker Name="Newbie Dungeon" Facet="0" Icon="Dungeon" X="1445" Y="1675"/>
+<Marker Name="Glacia Entrance" Facet="0" Icon="Dungeon" X="945" Y="433"/>
 
- 
 </Pack>

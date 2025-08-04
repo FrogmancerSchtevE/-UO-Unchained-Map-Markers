@@ -15,7 +15,6 @@
 <Marker Name="Hidden Valley Cave" Facet="0" Icon="Terrain" X="791" Y="1840"/>
 <Marker Name="Hidden Valley" Facet="0" Icon="Terrain" X="708" Y="1887"/>
 <Marker Name="Hidden Valley Beach" Facet="0" Icon="Landmark" X="643" Y="1980"/>
-<Marker Name="Deadstall Temple" Facet="0" Icon="Landmark" X="362" Y="1953"/>
 <Marker Name="Broken Sand Shores" Facet="0" Icon="Landmark" X="377" Y="1752"/>
 <Marker Name="Orcish Cove" Facet="0" Icon="BodyOfWater" X="553" Y="1395"/>
 <Marker Name="Chieftens Hold" Facet="0" Icon="Landmarkx" X="587" Y="1473"/>
@@ -46,7 +45,6 @@
 <Marker Name="Fetid Pools" Facet="0" Icon="Landmark" X="1182" Y="2432"/>
 <Marker Name="Recluses Hovel" Facet="0" Icon="Scenic" X="1127" Y="2393"/>
 <Marker Name="Windblown Summit" Facet="0" Icon="Scenic" X="1087" Y="2258"/>
-<Marker Name="Minotaur Valley" Facet="0" Icon="Landmark" X="1246" Y="2258"/>
 <Marker Name="Doghead Beach" Facet="0" Icon="Landmarkx" X="1261" Y="2159"/>
 <Marker Name="Stone Castle" Facet="0" Icon="Landmark" X="1135" Y="2117"/>
 <Marker Name="Skara Farmsteads" Facet="0" Icon="Landmark" X="804" Y="2232"/>
@@ -68,9 +66,7 @@
 <Marker Name="Drake Nest" Facet="0" Icon="Mobnmsmall" X="366" Y="1478"/>
 <Marker Name="Delucca Graveyard" Facet="0" Icon="Graveyard" X="2273" Y="2859"/>
 <Marker Name="Harpys Valley" Facet="0" Icon="Mobnmsmall" X="1217" Y="2555"/>
-<Marker Name="Shadowkin Hill" Facet="0" Icon="Mobnmsmall" X="1044" Y="1434"/>
 <Marker Name="Undead Keep" Facet="0" Icon="Keep" X="1241" Y="1614"/>
-<Marker Name="Harpy Nest" Facet="0" Icon="Mobnmsmall" X="1402" Y="927"/>
 <Marker Name="Savage Peak" Facet="0" Icon="Mobnmsmall" X="1415" Y="732"/>
 <Marker Name="Pleasent Valley" Facet="0" Icon="Terrain" X="1152" Y="1961"/>
 <Marker Name="Britain Mausoleum" Facet="0" Icon="Graveyard" X="1387" Y="1437"/>

@@ -39,7 +39,7 @@
 <Marker Name="Healer" Facet="0" Icon="Healer" X="1475" Y="1722"/>
 <Marker Name="Mageshop" Facet="0" Icon="Mageshop" X="1495" Y="1692"/>
 <Marker Name="Stable" Facet="0" Icon="Stable" X="1456" Y="1708"/>
-<Marker Name="Tinker" Facet="0" Icon="Tinker" X="1477" Y="1683"/>
+<Marker Name="Fisherman" Facet="0" Icon="Fisherman" X="1477" Y="1683"/>
 <Marker Name="Provisioner" Facet="0" Icon="Provisioner" X="1473" Y="1690"/>
 <Marker Name="Tailor" Facet="0" Icon="Tailor" X="1469" Y="1669"/>
 <Marker Name="Jeweler" Facet="0" Icon="Jeweler" X="1476" Y="1667"/>
@@ -96,5 +96,13 @@
 <Marker Name="Healer" Facet="0" Icon="Healer" X="5661" Y="1167"/>
 <Marker Name="Healer" Facet="0" Icon="Healer" X="1235" Y="1891"/>
 
-  
+<Marker Name="Healer" Facet="0" Icon="Healer" X="5346" Y="2954"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="2060" Y="805"/> 
+<Marker Name="Healer" Facet="0" Icon="Healer" X="1427" Y="1451"/> 
+<Marker Name="Healer" Facet="0" Icon="Healer" X="1360" Y="1852"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="1306" Y="1769"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="644" Y="1977"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="1271" Y="2524"/>
+<Marker Name="Healer" Facet="0" Icon="Healer" X="4841" Y="3202"/>
+
 </Pack>
