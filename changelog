@@ -1,0 +1,19 @@
+# UO Unchained Map Marker Changelog
+
+## [2025-08-04] – Overhaul & Optimization Update
+
+### Added
+-  NPC location markers added across various overworld regions to assist with player navigation.
+-  Deceit dungeon region markers implemented to enhance dungeon pathing and exploration.
+
+### Changed
+-  Inactive overworld moongate markers removed to reduce visual clutter and reflect current shard state.
+-  Adjusted positioning of several map icons for better alignment with actual in-game POIs.
+-  Moved select quest-related POIs into `quests.xml` for improved in-game filtering and searchability.
+-  Updated icon type from `landmark` to `pin` for quest-related entries, making them more distinguishable.
+
+### Removed
+-  Deprecated inner dungeon markers removed due to irrelevance with current shard layout or gameplay updates.
+
+---
+ *This update focuses on clarity, relevance, and navigational ease for players using the map system both in and out of game.*
