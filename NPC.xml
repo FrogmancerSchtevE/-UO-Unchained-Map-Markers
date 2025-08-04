@@ -105,5 +105,6 @@
 <Marker Name="Healer" Facet="0" Icon="Healer" X="1271" Y="2524"/>
 <Marker Name="Healer" Facet="0" Icon="Healer" X="4841" Y="3202"/>
 <Marker Name="Healer" Facet="0" Icon="Healer" X="1832" Y="954"/>
-  
+<Marker Name="Healer" Facet="0" Icon="Healer" X="948" Y="425"/>
+
 </Pack>

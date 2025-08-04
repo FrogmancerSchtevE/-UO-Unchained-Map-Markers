@@ -12,7 +12,7 @@
 <Marker Name="To: &lt;Place Holder&gt;" Facet="0" Icon="Moongate" X="1003" Y="1935"/>
 <Marker Name="Doom Dungeon Portal" Facet="0" Icon="Moongate" X="537" Y="2207"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="238" Y="1352"/>
-<Marker Name="Skara Moongate" Facet="0" Icon="Moongate" X="723" Y="2235"/>
+<Marker Name="Western Territory" Facet="0" Icon="Moongate" X="723" Y="2235"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="1357" Y="1626"/>
 <Marker Name="Moongate" Facet="0" Icon="moongate" X="3751" Y="2083"/>
 <Marker Name="Britan Bank Moongate" Facet="0" Icon="moongate" X="1419" Y="1678"/>
@@ -37,5 +37,9 @@
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="4865" Y="2511"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="5529" Y="2931"/>
 <Marker Name="Exit" Facet="0" Icon="Moongate" X="5396" Y="3198"/>
+<Marker Name="Destard Moongate" Facet="0" Icon="Moongate" X="1290" Y="2521"/>
+<Marker Name="Shame Moongate" Facet="0" Icon="Moongate" X="503" Y="1571"/>
+<Marker Name="Glacia Moongate" Facet="0" Icon="Moongate" X="960" Y="430"/>
+<Marker Name="Eventie Moongate" Facet="0" Icon="Moongate" X="1309" Y="1077"/>
 
 </Pack>
