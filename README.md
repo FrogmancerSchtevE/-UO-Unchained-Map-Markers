@@ -1,65 +1,90 @@
-# -UO-Unchained-Map-Markers
-A repository for the player made map markers and icons for the private Ultima Online server, UO Unchained. 
 
-Installation:
-Clone this into your UO Unchained Data>Client folder. In game you'll have to reload mapicons or do a client restart to get them to function
+
+#  UO Unchained – Map Marker Repository
+
+A player-curated collection of XML-based map markers and custom iconography for the **Ultima Online: Unchained** private server.
+
+---
+
+##  Installation
+
+1. **Clone or download** this repository into the following directory:
+
 Ultima Online Unchained\Data\Client
 
-*************************************************
 
-A comprehensive, modular system of XML-based map markers and icons tailored for Ultima Online mapping tools like Razor Enhanced, UO Cartographer, and custom server UIs.
+2. In-game: either **restart your client** or use the `reload mapicons` command to activate the markers.
 
+---
 
-Purpose
+##  Purpose
 
-This repo exists to streamline world mapping, dungeon navigation, treasure hunting, and boss-tracking for UO players and shard administrators.
+This project streamlines:
 
-What's Inside
-MapIcons/
+- Overworld and dungeon navigation
+- Treasure hunting and recall routing
+- Boss tracking and event coordination
+- Lore-inspired exploration
 
-Over 300 PNG icons, including:
+Built for **players, mappers, and shard staff** alike.
 
-    Mob tiers (MOB3nm, MOBBNM, MOB6SPAOE, etc.)
+---
 
-    Functional markers: Moongates, Exits, Teleporters, Shrines
+##  Contents
 
-    Treasure markers: TREASURE_LEVEL1 through TREASURE_LEVEL8
+### `MapIcons/`  
+A complete icon set (300+ PNGs), including:
 
-    Navigation helpers: tosurface, tobossroom, tosideroom, stairs, etc.
+- **Mob tiering**: `MOB3nm`, `MOBBNM`, `MOB6SPAOE`, etc.  
+- **Functional markers**: Moongates, exits, teleporters, shrines  
+- **Treasure markers**: `TREASURE_LEVEL1` through `TREASURE_LEVEL8`  
+- **Navigation tools**: `tosurface`, `tobossroom`, `stairs`, etc.  
+- **Decorative types**: `scenic`, `pointofinterest`, `terrain`, etc.  
 
-    Decorative points: scenic, pointofinterest, terrain
+---
 
-Icons are optimized for visibility, with thematic coloring and layer consistency.
-XML Marker Files
+### `*.xml` Marker Files
 
-Dungeon & Region XMLs
-
-Clean, categorized waypoint lists using this format:
-
+Organized by region and dungeon, each file includes clean XML waypoint entries like:
+```
 <Marker Name="Shadow Altar" Facet="0" Icon="scenic" X="4581" Y="1337"/>
+```
+## Markers highlight:
 
-Used to overlay important locations like:
+    Boss and mini-boss locations
+    Resource-rich areas
+    Lore-heavy landmarks
+    Teleport chains and hidden exits
 
-    Boss rooms
+### For Players
 
-    Side paths
+    Load XMLs into Razor Enhanced, UO Cartographer, or similar tools
+    Quickly locate mobs, events, and resource nodes
+    Build personal recall or dungeon overlays
+    Track shard events and quests visually
 
-    Champion spawns
+# Credits
 
-    Themed scenery & lore points
+Project maintained by [Frogmancer SchtevE]
+Discord: DMSchteve
 
+Icons and data designed with love for the UO Unchained community. This project was built on the work done by Tykiller and Nalco from the Unchained community.
 
-🔹 For Players:
+# Changelog
+[2025-08-04] – Overhaul & Optimization Update
+Added
 
-    Load XMLs into compatible map tools
+    - New NPC location markers added across various overworld regions
+    - Deceit dungeon map markers implemented for improved pathing
 
-    Track bosses, resources, or recall routes visually
+Changed
 
-    Build lore-rich overlays for personal reference
+    - Removed inactive moongate markers to reduce clutter
+    - Adjusted icon positions for better alignment with in-game POIs
+    - Moved certain POIs to quests.xml for improved in-game filtering
+    - Updated quest-related icons from landmark to pin to better reflect their purpose
 
+Removed
 
+    - Removed obsolete inner dungeon markers no longer relevant to the current shard layout
 
-🛠 Credits
-
-Project maintained by [Frogmancer SchtevE], Contact me on discord at DM.Schteve for changes/Issues
-Icons, XMLs, and naming systems created with ❤️ for the UO community.
