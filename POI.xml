@@ -76,6 +76,7 @@
 <Marker Name="Witches Circle" Facet="0" Icon="scenic" X="1221" Y="2406"/>
 <Marker Name="Lava Hill" Facet="0" Icon="Landmark" X="1889" Y="593"/>
 <Marker Name="Frozen Fortress" Facet="0" Icon="Landmark" X="2599" Y="337"/>
- <Marker Name="Altar of the Serpents" Facet="0" Icon="Shrinex" X="2179" Y="2821"/>
+<Marker Name="Altar of the Serpents" Facet="0" Icon="Shrinex" X="2179" Y="2821"/>
+<Marker Name="Champions Row" Facet="0" Icon="Scenic" X="1343" Y="1734"/>
 
 </Pack>
