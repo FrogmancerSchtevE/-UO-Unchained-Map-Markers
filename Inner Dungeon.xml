@@ -86,5 +86,8 @@
 <Marker Name="Exit" Facet="0" Icon="tosurface" X="4577" Y="2192"/>
 <Marker Name="Down" Facet="0" Icon="tosideroom" X="4603" Y="2160"/>
 <Marker Name="Exit" Facet="0" Icon="tosurface" X="5467" Y="3202"/>
-
+<Marker Name="Tunnel" Facet="0" Icon="secretpassage" X="5433" Y="3237"/>
+<Marker Name="Tunnel" Facet="0" Icon="secretpassage" X="5291" Y="3261"/>
+  
 </Pack>
+
