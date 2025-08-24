@@ -44,4 +44,8 @@
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="5162" Y="1781"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="4954" Y="2247"/> 
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="4657" Y="2785"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="4972" Y="1672"/>
+<Marker Name="Exit" Facet="0" Icon="Moongate" X="5919" Y="1152"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="4613" Y="2478"/>
+
 </Pack>
