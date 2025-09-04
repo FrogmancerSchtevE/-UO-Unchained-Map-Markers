@@ -89,6 +89,7 @@ Removed
     - Removed markers that dont have a purpose (no moongate, dead teleporters, etc)
     - Bucs Den NPC markers removed completely.
 
+---
 
 [2025-08-04] – Overhaul & Optimization Update
 Added
