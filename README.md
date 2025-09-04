@@ -65,12 +65,31 @@ Organized by region and dungeon, each file includes clean XML waypoint entries l
 
 # Credits
 
-Project maintained by [Frogmancer SchtevE]
-Discord: DMSchteve
+Project maintained by Danf
+Contact them through the unchained discord
 
 Icons and data designed with love for the UO Unchained community. This project was built on the work done by Tykiller and Nalco from the Unchained community.
 
 # Changelog
+[2025-09-04] – Danf Takeover Update
+
+Danf will now be maintaining this REPO, please use the Danf-Update branch for all future updates. You can reach them via discord in the Unchained Discord Server
+
+Added
+
+    - New POI's
+
+Changed
+
+    - Fixed some spelling issues on certain markers
+    - Streamlined quest and poi markers to not overlap
+
+Removed
+
+    - Removed markers that dont have a purpose (no moongate, dead teleporters, etc)
+    - Bucs Den NPC markers removed completely.
+
+
 [2025-08-04] – Overhaul & Optimization Update
 Added
 
