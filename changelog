@@ -1,5 +1,28 @@
 # UO Unchained Map Marker Changelog
 
+# Changelog
+[2025-09-04] – Danf Takeover Update
+
+Danf will now be maintaining this REPO, please use the Danf-Update branch for all future updates. You can reach them via discord in the Unchained Discord Server
+
+Added
+
+    - New POI's
+
+Changed
+
+    - Fixed some spelling issues on certain markers
+    - Streamlined quest and poi markers to not overlap
+
+Removed
+
+    - Removed markers that dont have a purpose (no moongate, dead teleporters, etc)
+    - Bucs Den NPC markers removed completely.
+
+---
+
+# Previous Updates (For archival purposes)
+
 ## [2025-08-04] – Overhaul & Optimization Update
 
 ### Added
