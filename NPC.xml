@@ -65,15 +65,6 @@
 <Marker Name="Stable" Facet="0" Icon="Stable" X="1386" Y="1651"/>
 <Marker Name="Healer" Facet="0" Icon="Healer" X="1266" Y="1557"/>
 <Marker Name="Healer" Facet="0" Icon="Healer" X="1646" Y="1711"/>
-<Marker Name="Bank (Bucs Den)" Facet="0" Icon="Bank" X="1566" Y="2017"/>
-<Marker Name="Blacksmith" Facet="0" Icon="Blacksmith" X="1573" Y="2050"/>
-<Marker Name="Mage" Facet="0" Icon="Mage" X="1578" Y="2033"/>
-<Marker Name="Tailor" Facet="0" Icon="Tailor" X="1518" Y="2027"/>
-<Marker Name="Healer" Facet="0" Icon="Healer" X="1517" Y="2015"/>
-<Marker Name="Stable" Facet="0" Icon="Stable" X="1511" Y="1997"/>
-<Marker Name="Cook" Facet="0" Icon="Cook" X="1564" Y="1999"/>
-<Marker Name="Provisioner" Facet="0" Icon="Provisioner" X="1572" Y="1998"/>
-<Marker Name="Fisherman" Facet="0" Icon="Fishermansguild" X="1567" Y="2007"/>
 <Marker Name="Animal Trainer" Facet="0" Icon="Stable" X="3836" Y="2331"/>  
 <Marker Name="Doom Shopkeeper" Facet="0" Icon="Inn" X="3785" Y="2379"/>
 <Marker Name="Animal Trainer" Facet="0" Icon="Stable" X="3785" Y="2383"/>
