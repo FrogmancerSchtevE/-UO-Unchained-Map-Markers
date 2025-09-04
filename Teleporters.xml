@@ -6,7 +6,8 @@
 <Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3773" Y="2476"/>
 <Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3777" Y="2433"/>
 <Marker Name="Teleporter" Facet="0" Icon="teleporter" X="3806" Y="2407"/>
-<Marker Name="To: &lt;Place Holder&gt;" Facet="0" Icon="Teleporter" X="1546" Y="2030"/>
+<Marker Name="To: Skara Forest" Facet="0" Icon="Teleporter" X="1546" Y="2030"/>
+<Marker Name="To: Buccs Den" Facet="0" Icon="Teleporter" X="1003" Y="1935"/>
 <Marker Name="Teleporter" Facet="0" Icon="teleporter" X="4719" Y="3331"/>
 <Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3727" Y="1485"/>
 <Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3762" Y="1450"/>

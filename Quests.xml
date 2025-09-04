@@ -8,15 +8,16 @@
 <Marker Name="Deceit Quest" Facet="0" Icon="Other" X="5384" Y="2847"/>
 <Marker Name="Wellen (Shame Quest)" Facet="0" Icon="Other" X="505" Y="1570"/>
 <Marker Name="Gnolls Cave" Facet="0" Icon="Other" X="1543" Y="1072"/>
-<Marker Name="Shadowkin Hill" Facet="0" Icon="Other" X="1044" Y="1434"/>
+<Marker Name="Shadowkin Camp" Facet="0" Icon="Other" X="1026" Y="1377"/>
 <Marker Name="Deadstall Temple" Facet="0" Icon="Other" X="362" Y="1953"/>
 <Marker Name="Cyclops Valley" Facet="0" Icon="Other" X="2236" Y="2927"/>
 <Marker Name="Minotaur Valley" Facet="0" Icon="Other" X="1246" Y="2258"/>
 <Marker Name="Frozen Isle" Facet="0" Icon="Other" X="2606" Y="358"/>
-<Marker Name="Lave Hill" Facet="0" Icon="Other" X="1911" Y="595"/>
-<Marker Name="Bucs Den" Facet="0" Icon="Other" X="1532" Y="2008"/>
+<Marker Name="Lava Hill" Facet="0" Icon="Other" X="1911" Y="595"/>
+<Marker Name="Buccs Den" Facet="0" Icon="Other" X="1532" Y="2008"/>
 <Marker Name="Pit of Despair" Facet="0" Icon="Other" X="1402" Y="927"/>
 <Marker Name="Ignitus (Destard)" Facet="0" Icon="Other" X="1278" Y="2523"/>
 <Marker Name="Sasha (Sandstorm)" Facet="0" Icon="Other" X="1835" Y="944"/>
+<Marker Name="Ghost Hunt" Facet="0" Icon="Other" X="1257" Y="1613"/>
 
 </Pack>
