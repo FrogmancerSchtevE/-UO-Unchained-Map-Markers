@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <Pack Name="misc" Revision="0">
 <Marker Name="Heart Bay" Facet="0" Icon="bodyofwater" X="2194" Y="542"/>
-<Marker Name="Windmill" Facet="0" Icon="Landmark" X="783" Y="2250"/> 
+<Marker Name="Skara Windmill" Facet="0" Icon="Landmark" X="783" Y="2250"/> 
 <Marker Name="Prison Cage" Facet="0" Icon="Mobnmsmall" X="1095" Y="911"/>
 <Marker Name="Abadondoned House" Facet="0" Icon="Landmark" X="923" Y="423"/>
 <Marker Name="Abandoned Blacksmith" Facet="0" Icon="Blacksmith" X="917" Y="399"/>
@@ -29,12 +29,16 @@
 <Marker Name="Jail!! Womp Womp" Facet="0" Icon="gate" X="1517" Y="3809"/> 
 <Marker Name="Hidden Chamber" Facet="0" Icon="Cave" X="775" Y="1928"/>
 <Marker Name="Gripperhead Beach" Facet="0" Icon="Landmark" X="126" Y="1476"/>
-<Marker Name="Passage" Facet="0" Icon="ruins" X="1079" Y="2153"/>
+<Marker Name="Petrified Passage" Facet="0" Icon="ruins" X="1079" Y="2153"/>
 <Marker Name="Skara Bay" Facet="0" Icon="bodyofwater" X="798" Y="2038"/>
 <Marker Name="Stygian Keep East Gate" Facet="0" Icon="Gate" X="1068" Y="866"/>
 <Marker Name="Stygian Keep South Gate" Facet="0" Icon="Gate" X="968" Y="1000"/>
-<Marker Name="Bridge" Facet="0" Icon="bridge" X="1230" Y="936"/>
-
+<Marker Name="Smugglers Bridge" Facet="0" Icon="bridge" X="1230" Y="936"/>
+<Marker Name="Skara Forest" Facet="0" Icon="Scenic" X="926" Y="1972"/>
+<Marker Name="East Britain Path" Facet="0" Icon="Scenic" X="1789" Y="1285"/>
+<Marker Name="Mountain Pass" Facet="0" Icon="Scenic" X="1745" Y="1020"/>
+<Marker Name="Hidden Valley Bridge" Facet="0" Icon="Bridge" X="791" Y="1839"/>
+<Marker Name="Wrong Peninsula" Facet="0" Icon="Scenic" X="1783" Y="256"/>
 
 <Marker Name="Cave" Facet="0" Icon="Terrain" X="662" Y="909"/>
 <Marker Name="Cave" Facet="0" Icon="Terrain" X="669" Y="845"/>
@@ -62,7 +66,7 @@
 <Marker Name="Cave" Facet="0" Icon="Terrain" X="1375" Y="1858"/> 
 <Marker Name="Cave" Facet="0" Icon="terrain" X="1264" Y="1252"/>
 <Marker Name="Cave" Facet="0" Icon="terrain" X="1823" Y="1030"/>
-<Marker Name="Cave" Facet="0" Icon="terrain" X="1996" Y="81"/>
+<Marker Name="Old Glacia Cave" Facet="0" Icon="terrain" X="1996" Y="81"/>
 
 
 

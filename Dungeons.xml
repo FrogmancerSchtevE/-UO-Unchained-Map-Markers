@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <Pack Name="Dungeons" Revision="0">
-<Marker Name="Glacia Backdoor?" Facet="0" Icon="Dungeon" X="576" Y="377"/>
+<Marker Name="Glacia Backdoor" Facet="0" Icon="Dungeon" X="576" Y="377"/>
 <Marker Name="Deceit Entrance" Facet="0" Icon="Dungeon" X="1450" Y="1367"/>
 <Marker Name="Cave Entrance" Facet="0" Icon="Dungeon" X="518" Y="2248"/>
 <Marker Name="Deadstall Dungeon Ent" Facet="0" Icon="Dungeon" X="418" Y="1943"/>
