@@ -1,50 +1,53 @@
 <?xml version="1.0" ?>
 <Pack Name="Moongates" Revision="0">
+<Marker Name="Moongate" Facet="0" Icon="MOONGATE" X="5272" Y="2167"/>
 <Marker Name="Cove Moongate" Facet="0" Icon="Moongate" X="817" Y="2596"/>
 <Marker Name="Northern Territory" Facet="0" Icon="Moongate" X="607" Y="950"/>
 <Marker Name="Eastern Territory" Facet="0" Icon="Moongate" X="1638" Y="625"/>
-<Marker Name="Ice Moongate" Facet="0" Icon="Moongate" X="847" Y="212"/>
-<Marker Name="Sandstorm Moongate" Facet="0" Icon="Moongate" X="1832" Y="945"/>
+<Marker Name="To Ice Island" Facet="0" Icon="Moongate" X="847" Y="212"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="1832" Y="945"/>
 <Marker Name="Delucia Moongate" Facet="0" Icon="Moongate" X="2288" Y="2760"/>
-<Marker Name="Birthing Gate" Facet="0" Icon="Moongate" X="1518" Y="3536"/>
+<Marker Name="Birthing Gate" Facet="0" Icon="Moongate" X="1518" Y="3537"/>
 <Marker Name="Portal to Mainland" Facet="0" Icon="Moongate" X="3849" Y="2326"/>
-<Marker Name="Frozen Isle Moongate" Facet="0" Icon="Moongate" X="2524" Y="263"/>
-<Marker Name="Doom Dungeon Portal" Facet="0" Icon="Moongate" X="537" Y="2207"/>
-<Marker Name="Moongate" Facet="0" Icon="Moongate" X="238" Y="1352"/>
+<Marker Name="To Mainland" Facet="0" Icon="Moongate" X="2524" Y="263"/>
+<Marker Name="Hellfire Portal" Facet="0" Icon="Moongate" X="536" Y="2207"/>
+<Marker Name="Western Territory" Facet="0" Icon="Moongate" X="238" Y="1352"/>
 <Marker Name="Western Territory" Facet="0" Icon="Moongate" X="723" Y="2235"/>
-<Marker Name="Moongate" Facet="0" Icon="Moongate" X="1357" Y="1626"/>
-<Marker Name="Moongate" Facet="0" Icon="moongate" X="3751" Y="2083"/>
-<Marker Name="Britan Bank Moongate" Facet="0" Icon="moongate" X="1419" Y="1678"/>
-<Marker Name="Moongate" Facet="0" Icon="moongate" X="4983" Y="2145"/>
-<Marker Name="Moongate" Facet="0" Icon="Moongate" X="3747" Y="1333"/>
+<Marker Name="Bank Moongate" Facet="0" Icon="moongate" X="1429" Y="1666"/>
+<Marker Name="Moongate" Facet="0" Icon="moongate" X="4983" Y="2144"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="3761" Y="970"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="3775" Y="748"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="3737" Y="563"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="3740" Y="294"/>
-<Marker Name="Moongate" Facet="0" Icon="Moongate" X="4179" Y="144"/>
-<Marker Name="Moongate" Facet="0" Icon="Moongate" X="4210" Y="731"/>
-<Marker Name="Moongate" Facet="0" Icon="Moongate" X="4231" Y="821"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="4171" Y="151"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="4223" Y="734"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="4235" Y="838"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="4125" Y="1070"/>
-<Marker Name="Moongate" Facet="0" Icon="Moongate" X="43439" Y="3660"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="3409" Y="3441"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="5670" Y="1179"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="5949" Y="634"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="5730" Y="218"/>
-<Marker Name="Moongate" Facet="0" Icon="Moongate" X="5377" Y="224"/>
-<Marker Name="Moongate" Facet="0" Icon="Moongate" X="5404" Y="2881"/>
-<Marker Name="Moongate" Facet="0" Icon="Moongate" X="5257" Y="543"/>
-<Marker Name="Moongate" Facet="0" Icon="Moongate" X="4865" Y="2511"/>
-<Marker Name="Moongate" Facet="0" Icon="Moongate" X="5529" Y="2931"/>
-<Marker Name="Exit" Facet="0" Icon="Moongate" X="5396" Y="3198"/>
-<Marker Name="Destard Moongate" Facet="0" Icon="Moongate" X="1290" Y="2521"/>
-<Marker Name="Shame Moongate" Facet="0" Icon="Moongate" X="503" Y="1571"/>
-<Marker Name="Glacia Moongate" Facet="0" Icon="Moongate" X="960" Y="430"/>
-<Marker Name="Eventide Moongate" Facet="0" Icon="Moongate" X="1309" Y="1077"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="5381" Y="228"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="5400" Y="2871"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="5260" Y="545"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="5396" Y="3198"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="1290" Y="2521"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="503" Y="1571"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="960" Y="430"/>
+<Marker Name="Moongate" Facet="0" Icon="Moongate" X="1309" Y="1077"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="5162" Y="1781"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="4954" Y="2247"/> 
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="4657" Y="2785"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="4972" Y="1672"/>
 <Marker Name="Exit" Facet="0" Icon="Moongate" X="5919" Y="1152"/>
 <Marker Name="Moongate" Facet="0" Icon="Moongate" X="4613" Y="2478"/>
+<Marker Name="Moongate" Facet="0" Icon="MOONGATE" X="2167" Y="1942"/>
+<Marker Name="Moongate" Facet="0" Icon="MOONGATE" X="1327" Y="1804"/>
+<Marker Name="Moongate" Facet="0" Icon="moongate" X="4789" Y="3361"/>
+<Marker Name="Moongate" Facet="0" Icon="MOONGATE" X="5730" Y="2467"/>
+<Marker Name="Moongate" Facet="0" Icon="MOONGATE" X="4655" Y="1292"/>
+<Marker Name="Moongate" Facet="0" Icon="MOONGATE" X="4708" Y="1284"/>
+<Marker Name="Moongate" Facet="0" Icon="MOONGATE" X="1477" Y="477"/>
+<Marker Name="Moongate" Facet="0" Icon="MOONGATE" X="1223" Y="1027"/>
 
 </Pack>
