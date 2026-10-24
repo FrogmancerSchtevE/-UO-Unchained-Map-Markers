@@ -78,5 +78,30 @@
 <Marker Name="Healer" Facet="0" Icon="HEALER" X="803" Y="2878"/>
 <Marker Name="Zeth(Quest)" Facet="0" Icon="LANDMARK" X="1226" Y="1027"/>
 <Marker Name="The Duelist" Facet="0" Icon="FIGHTERSGUILD" X="1191" Y="1812"/>
+<Marker Name="Heealer" Facet="0" Icon="HEALER" X="4205" Y="3235"/>
+<Marker Name="Stat Changer" Facet="0" Icon="POINT" X="1474" Y="1669"/>
+<Marker Name="Important NPCs" Facet="0" Icon="POINT" X="1464" Y="1669"/>
+<Marker Name="Important NPCs" Facet="0" Icon="POINT" X="1447" Y="1686"/>
+<Marker Name="Map Guy" Facet="0" Icon="POINT" X="1442" Y="1696"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="1200" Y="2067"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="1391" Y="2777"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="1421" Y="2780"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="1266" Y="2335"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="1064" Y="1930"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="1083" Y="1461"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="1101" Y="1642"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="1375" Y="1744"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="2057" Y="2818"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="1502" Y="2426"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="1590" Y="1884"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="1290" Y="1734"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="4219" Y="3503"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="5152" Y="2791"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="5235" Y="2734"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="5403" Y="2767"/>
+<Marker Name="Healer(Scam)" Facet="0" Icon="HEALER" X="5322" Y="2785"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="5780" Y="2917"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="4697" Y="2515"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="4621" Y="2757"/>
 
 </Pack>

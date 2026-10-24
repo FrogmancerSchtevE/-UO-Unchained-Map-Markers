@@ -4,7 +4,7 @@
 <Marker Name="Skara Windmill" Facet="0" Icon="Landmark" X="783" Y="2250"/> 
 <Marker Name="Prison Cage" Facet="0" Icon="Mobnmsmall" X="1095" Y="911"/>
 <Marker Name="Frozen House" Facet="0" Icon="Landmark" X="923" Y="423"/>
-<Marker Name="Abandoned Blacksmith" Facet="0" Icon="Blacksmith" X="917" Y="399"/>
+<Marker Name="Abandoned Blacksmith" Facet="0" Icon="SCENIC" X="917" Y="399"/>
 <Marker Name="Ice Altar" Facet="0" Icon="Landmark" X="894" Y="294"/>
 <Marker Name="Ice Dueling" Facet="0" Icon="Gem" X="901" Y="223"/>
 <Marker Name="Stairs" Facet="0" Icon="STAIRS" X="1480" Y="2405"/>
@@ -62,6 +62,7 @@
 <Marker Name="Cave" Facet="0" Icon="terrain" X="1996" Y="81"/>
 <Marker Name="Turret Defense" Facet="0" Icon="LANDMARK" X="1378" Y="1670"/>
 <Marker Name="Cave" Facet="0" Icon="Terrain" X="581" Y="996"/>
+<Marker Name="Cave" Facet="0" Icon="TERRAIN" X="718" Y="1971"/>
 
 
 

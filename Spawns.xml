@@ -8,6 +8,15 @@
 <Marker Name="Humility Altar" Facet="0" Icon="MOBBSA" X="2037" Y="1007"/>
 <Marker Name="Compassion Altar" Facet="0" Icon="MOBBSA" X="1910" Y="896"/>
 <Marker Name="Chaos Altar" Facet="0" Icon="MOBBSA" X="460" Y="2202"/>
+<Marker Name="Honor Altar" Facet="0" Icon="SHRINEX" X="1408" Y="2726"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB1SA" X="4797" Y="3114"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB1SA" X="4647" Y="2414"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB1SA" X="5033" Y="2196"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB3NM" X="4600" Y="2877"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB3NM" X="4813" Y="2917"/>
+<Marker Name="Boss" Facet="0" Icon="MOB3NM" X="4500" Y="3133"/>
+<Marker Name="Boss" Facet="0" Icon="MOBBNM" X="5366" Y="3120"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB1SA" X="5305" Y="3218"/>
 
   
 </Pack>

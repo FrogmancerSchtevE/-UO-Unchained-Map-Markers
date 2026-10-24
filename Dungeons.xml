@@ -14,5 +14,6 @@
 <Marker Name="Newbie Dungeon" Facet="0" Icon="Dungeon" X="1485" Y="1666"/>
 <Marker Name="Glacia" Facet="0" Icon="Dungeon" X="945" Y="433"/>
 <Marker Name="Hollow" Facet="0" Icon="DUNGEON" X="1230" Y="1037"/>
+<Marker Name="Exile" Facet="0" Icon="DUNGEON" X="1295" Y="1730"/>
 
 </Pack>

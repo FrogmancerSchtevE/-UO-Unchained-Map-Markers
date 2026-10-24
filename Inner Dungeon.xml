@@ -31,7 +31,7 @@
 <Marker Name="Exit" Facet="0" Icon="tosideroom" X="5347" Y="2481"/>
 <Marker Name="Cave" Facet="0" Icon="Terrain" X="4888" Y="2535"/>
 <Marker Name="Exit" Facet="0" Icon="tosurface" X="4420" Y="2446"/>
-<Marker Name="Down" Facet="0" Icon="Tobossroom" X="4671" Y="2351"/>
+<Marker Name="To Boss" Facet="0" Icon="Tobossroom" X="4671" Y="2351"/>
 <Marker Name="Dungeon Exit" Facet="0" Icon="tosurface" X="4632" Y="1225"/>
 <Marker Name="Poisoned Water" Facet="0" Icon="Scenic" X="4567" Y="1309"/>
 <Marker Name="Sand Pit" Facet="0" Icon="scenic" X="4630" Y="1295"/>
@@ -65,6 +65,41 @@
 <Marker Name="Down" Facet="0" Icon="tobossroom" X="4959" Y="2122"/>
 <Marker Name="Frozen Key" Facet="0" Icon="tobossroom" X="4640" Y="2589"/>
 <Marker Name="Exit" Facet="0" Icon="EXIT" X="5816" Y="2464"/>
+<Marker Name="Down" Facet="0" Icon="STAIRS" X="4707" Y="3771"/>
+<Marker Name="Up" Facet="0" Icon="STAIRS" X="4867" Y="3828"/>
+<Marker Name="Down" Facet="0" Icon="STAIRS" X="4645" Y="3710"/>
+<Marker Name="Up" Facet="0" Icon="STAIRS" X="4820" Y="3725"/>
+<Marker Name="Buried Pyr" Facet="0" Icon="secretpassage" X="2123" Y="2818"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="4233" Y="3764"/>
+<Marker Name="Down" Facet="0" Icon="STAIRS" X="4143" Y="3678"/>
+<Marker Name="Underwater Tunnel" Facet="0" Icon="secretpassage" X="4161" Y="3678"/>
+<Marker Name="Up" Facet="0" Icon="STAIRS" X="4119" Y="3640"/>
+<Marker Name="Down" Facet="0" Icon="STAIRS" X="4159" Y="3575"/>
+<Marker Name="Up" Facet="0" Icon="STAIRS" X="4187" Y="3566"/>
+<Marker Name="To Champion" Facet="0" Icon="tobossroom" X="4224" Y="3503"/>
+<Marker Name="Exit" Facet="0" Icon="EXIT" X="4386" Y="3582"/>
+<Marker Name="Exit" Facet="0" Icon="EXIT" X="5155" Y="2797"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="5241" Y="2749"/>
+<Marker Name="Down" Facet="0" Icon="STAIRS" X="5204" Y="2757"/>
+<Marker Name="Up" Facet="0" Icon="GEM" X="5409" Y="2764"/>
+<Marker Name="Control Point[PVP]" Facet="0" Icon="GEM" X="5388" Y="2881"/>
+<Marker Name="To Boss" Facet="0" Icon="tobossroom" X="5420" Y="2911"/>
+<Marker Name="Exit" Facet="0" Icon="EXIT" X="5149" Y="2876"/>
+<Marker Name="Fetid Mire" Facet="0" Icon="SCENIC" X="5412" Y="2844"/>
+<Marker Name="Up" Facet="0" Icon="STAIRS" X="5537" Y="2726"/>
+<Marker Name="Down" Facet="0" Icon="STAIRS" X="5550" Y="2747"/>
+<Marker Name="Control Point" Facet="0" Icon="GEM" X="4867" Y="3283"/>
+<Marker Name="Passage" Facet="0" Icon="secretpassage" X="4680" Y="2412"/>
+<Marker Name="Control Point[PVP]" Facet="0" Icon="GEM" X="4771" Y="2540"/>
+<Marker Name="Up" Facet="0" Icon="STAIRS" X="4859" Y="2765"/>
+<Marker Name="Down" Facet="0" Icon="STAIRS" X="4617" Y="2761"/>
+<Marker Name="Boss" Facet="0" Icon="MOBBNM" X="4607" Y="2719"/>
+<Marker Name="Control Point[PVP]" Facet="0" Icon="GEM" X="4598" Y="2892"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="4707" Y="2959"/>
+<Marker Name="Exit" Facet="0" Icon="STAIRS" X="4497" Y="3164"/>
+<Marker Name="Up" Facet="0" Icon="STAIRS" X="5532" Y="3324"/>
+<Marker Name="To Champion" Facet="0" Icon="tobossroom" X="5419" Y="3065"/>
+<Marker Name="Passage" Facet="0" Icon="secretpassage" X="5390" Y="3116"/>
   
 </Pack>
 

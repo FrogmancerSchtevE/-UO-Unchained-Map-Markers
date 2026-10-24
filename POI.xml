@@ -52,10 +52,67 @@
 <Marker Name="Shadowkin Hill" Facet="0" Icon="Mobnmsmall" X="1044" Y="1434"/>
 <Marker Name="Sickle Point" Facet="0" Icon="Scenic" X="2240" Y="356"/>
 <Marker Name="Skara Brae Cove" Facet="0" Icon="Bodyofwater" X="843" Y="1789"/>
-<Marker Name="Tranquil Darkness" Facet="0" Icon="Tower" X="1556" Y="2394"/>
+<Marker Name="Tranquil Darkness" Facet="0" Icon="LANDMARK" X="1556" Y="2394"/>
 <Marker Name="Speartip Point" Facet="0" Icon="Scenic" X="2108" Y="19"/>
 <Marker Name="Stygian Keep" Facet="0" Icon="Landmark" X="1005" Y="927"/>
 <Marker Name="The Steppe" Facet="0" Icon="Scenic" X="2198" Y="776"/>
 <Marker Name="Welcome!!" Facet="0" Icon="Scenic" X="1518" Y="3569"/>
 <Marker Name="Deadstall Temple" Facet="0" Icon="Landmark" X="362" Y="1953"/>
+<Marker Name="Bog of Eternal Stench" Facet="0" Icon="SCENIC" X="1152" Y="2035"/>
+<Marker Name="Petrified" Facet="0" Icon="SCENIC" X="1140" Y="2221"/>
+<Marker Name="Valley of Virtues" Facet="0" Icon="SCENIC" X="1148" Y="2350"/>
+<Marker Name="Smugglers Ledge" Facet="0" Icon="SCENIC" X="811" Y="584"/>
+<Marker Name="Frozen Plains" Facet="0" Icon="SCENIC" X="723" Y="331"/>
+<Marker Name="Broken Serpents Pillar" Facet="0" Icon="SCENIC" X="424" Y="3283"/>
+<Marker Name="Buried Pyramid" Facet="0" Icon="SCENIC" X="2237" Y="2687"/>
+<Marker Name="Shurikan Way" Facet="0" Icon="SCENIC" X="1344" Y="1957"/>
+<Marker Name="Water Altar" Facet="0" Icon="SCENIC" X="4248" Y="3517"/>
+<Marker Name="Nightwing Horror Altar" Facet="0" Icon="SCENIC" X="4310" Y="3524"/>
+<Marker Name="Acrid Lake" Facet="0" Icon="SCENIC" X="5548" Y="2763"/>
+<Marker Name="Hy Corners" Facet="0" Icon="SCENIC" X="5517" Y="2795"/>
+<Marker Name="Bonelords Crypt" Facet="0" Icon="SCENIC" X="5453" Y="2879"/>
+<Marker Name="Deaths Bastion" Facet="0" Icon="SCENIC" X="5337" Y="2803"/>
+<Marker Name="Portal to Styx" Facet="0" Icon="SCENIC" X="5269" Y="2791"/>
+<Marker Name="Asphodel Meadows" Facet="0" Icon="SCENIC" X="5291" Y="2732"/>
+<Marker Name="Tartarus Gate" Facet="0" Icon="SCENIC" X="5327" Y="2869"/>
+<Marker Name="Relvinions Manor" Facet="0" Icon="SCENIC" X="5715" Y="3010"/>
+<Marker Name="Blackthorns Brit" Facet="0" Icon="SCENIC" X="5700" Y="2889"/>
+<Marker Name="Unparalleled Keep" Facet="0" Icon="SCENIC" X="5744" Y="2748"/>
+<Marker Name="Fallen Abbey" Facet="0" Icon="SCENIC" X="5899" Y="2848"/>
+<Marker Name="Rememberance Graveyard" Facet="0" Icon="SCENIC" X="5880" Y="2978"/>
+<Marker Name="All Seeing Temple" Facet="0" Icon="SCENIC" X="4720" Y="3411"/>
+<Marker Name="Waters Roost" Facet="0" Icon="SCENIC" X="4660" Y="3235"/>
+<Marker Name="Waters Roost" Facet="0" Icon="SCENIC" X="4593" Y="3275"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="4724" Y="3137"/>
+<Marker Name="The Menagerie" Facet="0" Icon="SCENIC" X="4643" Y="3151"/>
+<Marker Name="Exiled Hideout" Facet="0" Icon="SCENIC" X="4648" Y="3321"/>
+<Marker Name="Solen Hive" Facet="0" Icon="SCENIC" X="4800" Y="3397"/>
+<Marker Name="Cavern of Frost" Facet="0" Icon="SCENIC" X="4473" Y="2590"/>
+<Marker Name="Trepid Dragon" Facet="0" Icon="SCENIC" X="4628" Y="2519"/>
+<Marker Name="Gale Gaol" Facet="0" Icon="SCENIC" X="4693" Y="2469"/>
+<Marker Name="Princes Throne" Facet="0" Icon="SCENIC" X="1428" Y="835"/>
+<Marker Name="Despairs Entrance" Facet="0" Icon="SCENIC" X="1461" Y="988"/>
+<Marker Name="Bluhd" Facet="0" Icon="SCENIC" X="4668" Y="2185"/>
+<Marker Name="Crimson Passage" Facet="0" Icon="SCENIC" X="4619" Y="2212"/>
+<Marker Name="Tomb of the Unnamed King" Facet="0" Icon="SCENIC" X="4711" Y="2242"/>
+<Marker Name="Red Riven River" Facet="0" Icon="SCENIC" X="4994" Y="2299"/>
+<Marker Name="Ancients Excavation" Facet="0" Icon="SCENIC" X="5064" Y="2236"/>
+<Marker Name="Sanguine Sepulcher" Facet="0" Icon="SCENIC" X="4989" Y="2171"/>
+<Marker Name="The Ossuary" Facet="0" Icon="SCENIC" X="5225" Y="2147"/>
+<Marker Name="Smokes Swirl" Facet="0" Icon="SCENIC" X="4990" Y="2732"/>
+<Marker Name="Rope Bridge" Facet="0" Icon="SCENIC" X="4956" Y="2749"/>
+<Marker Name="Stone Bridge" Facet="0" Icon="SCENIC" X="4910" Y="2752"/>
+<Marker Name="Argent Scales" Facet="0" Icon="SCENIC" X="4942" Y="2722"/>
+<Marker Name="Ophidian Burrow" Facet="0" Icon="SCENIC" X="4604" Y="2805"/>
+<Marker Name="Slip Scale Row" Facet="0" Icon="SCENIC" X="4608" Y="2964"/>
+<Marker Name="Nested Worries" Facet="0" Icon="SCENIC" X="4711" Y="2878"/>
+<Marker Name="Dragonfire Altar" Facet="0" Icon="SCENIC" X="4784" Y="2960"/>
+<Marker Name="Dragonriders Ruin" Facet="0" Icon="SCENIC" X="4802" Y="2837"/>
+<Marker Name="Drake Kings Folley" Facet="0" Icon="SCENIC" X="4664" Y="2826"/>
+<Marker Name="Blood Gods Templte" Facet="0" Icon="SCENIC" X="4947" Y="3782"/>
+<Marker Name="Hall of the Purge" Facet="0" Icon="SCENIC" X="5329" Y="3150"/>
+<Marker Name="Amphibian Lovers Bog" Facet="0" Icon="SCENIC" X="5367" Y="3246"/>
+<Marker Name="Black Orc Barracks" Facet="0" Icon="SCENIC" X="5435" Y="3294"/>
+<Marker Name="Vermins Nest" Facet="0" Icon="SCENIC" X="5359" Y="3302"/>
+<Marker Name="Elemental Eclipse" Facet="0" Icon="SCENIC" X="5004" Y="1729"/>
 </Pack>

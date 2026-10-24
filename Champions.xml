@@ -1,16 +1,22 @@
 <?xml version="1.0" ?>
 <Pack Name="Champions and Bosses" Revision="0">
  <Marker Name="Harrower" Facet="0" Icon="DUNGEONX" X="3754" Y="2725"/>
- <Marker Name="Pantheon" Facet="0" Icon="MOB3nm" X="5485" Y="2128"/>
+ <Marker Name="BOSS" Facet="0" Icon="MOBBNM" X="5485" Y="2128"/>
  <Marker Name="Sandstorm Champion" Facet="0" Icon="MOBBNM" X="5604" Y="2140"/>
  <Marker Name="Stygian Champion" Facet="0" Icon="MOBBNM" X="4267" Y="1821"/>
  <Marker Name="Glacia Champion" Facet="0" Icon="MOBBNM" X="4722" Y="2420"/>
  <Marker Name="Exodus Demon" Facet="0" Icon="MOB3nm" X="5555" Y="2511"/>
  <Marker Name="Sombra" Facet="0" Icon="MOB3nm" X="4629" Y="1153"/>
  <Marker Name="Eventide Champion" Facet="0" Icon="MOBBNM" X="5369" Y="1740"/>
- <Marker Name="Ignitus" Facet="0" Icon="MOB3nm" X="5368" Y="1913"/>
+ <Marker Name="Boss" Facet="0" Icon="MOB3nm" X="5368" Y="1913"/>
  <Marker Name="Delucia Champion" Facet="0" Icon="MOBBSA" X="2179" Y="2821"/>
  <Marker Name="Hollow Champion" Facet="0" Icon="MOBBSA" X="4800" Y="1286"/>
+ <Marker Name="Exile Champion" Facet="0" Icon="MOBBSA" X="4386" Y="3547"/>
+ <Marker Name="BOSS" Facet="0" Icon="MOBBNM" X="5136" Y="2913"/>
+ <Marker Name="Deceit Champion" Facet="0" Icon="MOBBNM" X="5724" Y="2786"/>
+ <Marker Name="Shame Champion" Facet="0" Icon="MOBBNM" X="4772" Y="3211"/>
+ <Marker Name="Destard Champion" Facet="0" Icon="MOB3NM" X="4727" Y="2747"/>
+ <Marker Name="Wrong Champion" Facet="0" Icon="MOBBNM" X="5530" Y="3275"/>
 
 
 </Pack>

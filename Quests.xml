@@ -8,16 +8,19 @@
 <Marker Name="Shadowkin Camp" Facet="0" Icon="LANDMARK" X="1026" Y="1377"/>
 <Marker Name="Deadstall Temple" Facet="0" Icon="LANDMARK" X="362" Y="1953"/>
 <Marker Name="Cyclops Valley" Facet="0" Icon="LANDMARK" X="2233" Y="2921"/>
-<Marker Name="Minotaur Valley" Facet="0" Icon="LANDMARK" X="1293" Y="2249"/>
+<Marker Name="Minotaur Valley" Facet="0" Icon="LANDMARK" X="1278" Y="2288"/>
 <Marker Name="Frozen Isle" Facet="0" Icon="LANDMARK" X="2589" Y="361"/>
 <Marker Name="Lava Hill" Facet="0" Icon="LANDMARK" X="1889" Y="593"/>
 <Marker Name="Buccs Den" Facet="0" Icon="LANDMARK" X="1532" Y="2008"/>
 <Marker Name="Pit of Despair" Facet="0" Icon="LANDMARK" X="1402" Y="927"/>
 <Marker Name="Ghost Hunt" Facet="0" Icon="LANDMARK" X="1257" Y="1613"/>
-<Marker Name="Ignitus(Quest)" Facet="0" Icon="MIB" X="1278" Y="2524"/>
+<Marker Name="Ignitus(Quest)" Facet="0" Icon="LANDMARK" X="1278" Y="2524"/>
 <Marker Name="Moongate" Facet="0" Icon="MOONGATE" X="2032" Y="225"/>
 <Marker Name="Remove Trap(Training)" Facet="0" Icon="TRAP" X="4067" Y="3314"/>
 <Marker Name="Healer" Facet="0" Icon="HEALER" X="4907" Y="2536"/>
 <Marker Name="Dungeon Exit" Facet="0" Icon="EXIT" X="4913" Y="2542"/>
+<Marker Name="Save Our Crops" Facet="0" Icon="LANDMARK" X="1149" Y="1575"/>
+<Marker Name="Peter[Quest]" Facet="0" Icon="LANDMARK" X="4231" Y="3752"/>
+<Marker Name="Paul[Quest]" Facet="0" Icon="LANDMARK" X="5152" Y="2783"/>
 
 </Pack>

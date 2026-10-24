@@ -15,6 +15,14 @@
 <Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3688" Y="705"/>
 <Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3778" Y="179"/>
 <Marker Name="Teleporter" Facet="0" Icon="Teleporter" X="3801" Y="164"/>
+<Marker Name="Teleporter" Facet="0" Icon="TELEPORTER" X="1266" Y="2206"/>
+<Marker Name="Teleporter" Facet="0" Icon="TELEPORTER" X="1271" Y="2208"/>
+<Marker Name="Teleporter" Facet="0" Icon="TELEPORTER" X="352" Y="2004"/>
+<Marker Name="Teleporter" Facet="0" Icon="TELEPORTER" X="1212" Y="1602"/>
+<Marker Name="Exit" Facet="0" Icon="TELEPORTER" X="4097" Y="3611"/>
+<Marker Name="Teleporter" Facet="0" Icon="TELEPORTER" X="5462" Y="2733"/>
+<Marker Name="Teleporter" Facet="0" Icon="TELEPORTER" X="5462" Y="2756"/>
+<Marker Name="Teleporter" Facet="0" Icon="TELEPORTER" X="4729" Y="3409"/>
 
 
 </Pack>

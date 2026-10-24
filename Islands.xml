@@ -12,5 +12,6 @@
   <Marker Name="Phoenix Roost" Facet="0" Icon="Island" X="1217" Y="2697"/>
   <Marker Name="Amiibo Island" Facet="0" Icon="Island" X="1705" Y="1989"/>
   <Marker Name="Colonizer Island" Facet="0" Icon="Island" X="1476" Y="475"/>
+  <Marker Name="Actual Orcs" Facet="0" Icon="ISLAND" X="1070" Y="340"/>
   
 </Pack>
