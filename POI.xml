@@ -28,13 +28,13 @@
 <Marker Name="Harpy Hill" Facet="0" Icon="Landmark" X="1291" Y="1917"/>
 <Marker Name="Drake Nest" Facet="0" Icon="Mobnmsmall" X="366" Y="1478"/>
 <Marker Name="Fey Island" Facet="0" Icon="Landmark" X="367" Y="1183"/>
-<Marker Name="Exile Village" Facet="0" Icon="Mobnmsmall" X="1367" Y="2100"/>
+<Marker Name="Exile Village" Facet="0" Icon="LANDMARK" X="1367" Y="2100"/>
 <Marker Name="Frozen Fortress" Facet="0" Icon="Landmark" X="2597" Y="341"/>
 <Marker Name="Guard Post" Facet="0" Icon="Landmark" X="957" Y="1764"/>
 <Marker Name="Guard Shack" Facet="0" Icon="smallhouse" X="1819" Y="723"/>
 <Marker Name="Hank Trill Isle" Facet="0" Icon="Island" X="2141" Y="1351"/>
 <Marker Name="Harpys Nest" Facet="0" Icon="Landmark" X="172" Y="1313"/>
-<Marker Name="Cyclops Valley" Facet="0" Icon="Mobnmsmall" X="1217" Y="2555"/>
+<Marker Name="Cyclops Valley" Facet="0" Icon="SCENIC" X="1249" Y="2562"/>
 <Marker Name="Hidden Valley Beach" Facet="0" Icon="Landmark" X="643" Y="1980"/>
 <Marker Name="Hidden Valley Cave" Facet="0" Icon="Terrain" X="778" Y="1869"/>
 <Marker Name="Hidden Valley" Facet="0" Icon="Terrain" X="708" Y="1887"/>
@@ -115,4 +115,6 @@
 <Marker Name="Black Orc Barracks" Facet="0" Icon="SCENIC" X="5435" Y="3294"/>
 <Marker Name="Vermins Nest" Facet="0" Icon="SCENIC" X="5359" Y="3302"/>
 <Marker Name="Elemental Eclipse" Facet="0" Icon="SCENIC" X="5004" Y="1729"/>
+<Marker Name="Seifers House" Facet="0" Icon="SCENIC" X="851" Y="1543"/>
+<Marker Name="Northern Pass" Facet="0" Icon="SCENIC" X="1365" Y="1180"/>
 </Pack>

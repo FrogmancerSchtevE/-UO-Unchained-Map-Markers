@@ -2,12 +2,12 @@
 <Pack Name="Void Altars" Revision="0">
  <Marker Name="Void Altar" Facet="0" Icon="MOB2sp" X="4917" Y="2266"/>
  <Marker Name="Void Altar" Facet="0" Icon="MOB2sp" X="4668" Y="2504"/>
- <Marker Name="Hydra" Facet="0" Icon="MOBBSA" X="1397" Y="2225"/>
+ <Marker Name="Void Altar" Facet="0" Icon="MOBBSA" X="1397" Y="2225"/>
  <Marker Name="Void Altar" Facet="0" Icon="MOB2SP" X="1385" Y="1825"/>
  <Marker Name="Void Altar" Facet="0" Icon="MOB2SP" X="1045" Y="1434"/>
- <Marker Name="Void Altar" Facet="0" Icon="MOBBSA" X="1859" Y="589"/>
+ <Marker Name="Void Altar" Facet="0" Icon="MOB2SP" X="1859" Y="589"/>
  <Marker Name="Void Altar" Facet="0" Icon="MOB2SP" X="1226" Y="1587"/>
- <Marker Name="Void Altar" Facet="0" Icon="MOBBSA" X="1367" Y="947"/>
+ <Marker Name="Void Altar" Facet="0" Icon="MOB2SP" X="1367" Y="947"/>
  <Marker Name="Teleporter" Facet="0" Icon="TELEPORTER" X="4725" Y="3397"/>
  <Marker Name="Void Altar" Facet="0" Icon="MOB2SP" X="1292" Y="1897"/>
  <Marker Name="Void Altar" Facet="0" Icon="MOB2SP" X="1121" Y="2358"/>
@@ -19,5 +19,12 @@
  <Marker Name="Void Altar" Facet="0" Icon="MOB1SA" X="4943" Y="2783"/>
  <Marker Name="Void Altar" Facet="0" Icon="MOB1SA" X="4941" Y="2828"/>
  <Marker Name="Void altar" Facet="0" Icon="MOB1SA" X="5436" Y="3263"/>
+ <Marker Name="Void Altar" Facet="0" Icon="MOB2SP" X="593" Y="2214"/>
+ <Marker Name="Void Altar" Facet="0" Icon="MOB2SP" X="1551" Y="2459"/>
+ <Marker Name="Void Altar" Facet="0" Icon="MOB2SP" X="1217" Y="2551"/>
+ <Marker Name="Void altar" Facet="0" Icon="MOB2SP" X="1221" Y="2406"/>
+ <Marker Name="Void Altar" Facet="0" Icon="MOB2SP" X="4598" Y="2891"/>
+ <Marker Name="Void altar" Facet="0" Icon="MOB2SP" X="366" Y="1087"/>
+ <Marker Name="Void Altar" Facet="0" Icon="MOB2SP" X="4950" Y="2715"/>
 
 </Pack>

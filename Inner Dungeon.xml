@@ -88,7 +88,7 @@
 <Marker Name="Fetid Mire" Facet="0" Icon="SCENIC" X="5412" Y="2844"/>
 <Marker Name="Up" Facet="0" Icon="STAIRS" X="5537" Y="2726"/>
 <Marker Name="Down" Facet="0" Icon="STAIRS" X="5550" Y="2747"/>
-<Marker Name="Control Point" Facet="0" Icon="GEM" X="4867" Y="3283"/>
+<Marker Name="Control Point[PVP]" Facet="0" Icon="GEM" X="4867" Y="3283"/>
 <Marker Name="Passage" Facet="0" Icon="secretpassage" X="4680" Y="2412"/>
 <Marker Name="Control Point[PVP]" Facet="0" Icon="GEM" X="4771" Y="2540"/>
 <Marker Name="Up" Facet="0" Icon="STAIRS" X="4859" Y="2765"/>
@@ -100,6 +100,10 @@
 <Marker Name="Up" Facet="0" Icon="STAIRS" X="5532" Y="3324"/>
 <Marker Name="To Champion" Facet="0" Icon="tobossroom" X="5419" Y="3065"/>
 <Marker Name="Passage" Facet="0" Icon="secretpassage" X="5390" Y="3116"/>
+<Marker Name="Exit" Facet="0" Icon="tosurface" X="5205" Y="2880"/>
+<Marker Name="Control Point[PVP]" Facet="0" Icon="GEM" X="4711" Y="2271"/>
+<Marker Name="Hollow Totem" Facet="0" Icon="POINT" X="4716" Y="1315"/>
+<Marker Name="Control Point[PVP]" Facet="0" Icon="GEM" X="4913" Y="1819"/>
   
 </Pack>
 

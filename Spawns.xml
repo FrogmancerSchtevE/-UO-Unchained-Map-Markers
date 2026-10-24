@@ -17,6 +17,8 @@
 <Marker Name="Boss" Facet="0" Icon="MOB3NM" X="4500" Y="3133"/>
 <Marker Name="Boss" Facet="0" Icon="MOBBNM" X="5366" Y="3120"/>
 <Marker Name="Abomination Idol" Facet="0" Icon="MOB1SA" X="5305" Y="3218"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB1SA" X="4766" Y="1753"/>
+<Marker Name="Abomination Idol" Facet="0" Icon="MOB1SA" X="4870" Y="1782"/>
 
   
 </Pack>

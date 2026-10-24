@@ -103,5 +103,19 @@
 <Marker Name="Healer" Facet="0" Icon="HEALER" X="5780" Y="2917"/>
 <Marker Name="Healer" Facet="0" Icon="HEALER" X="4697" Y="2515"/>
 <Marker Name="Healer" Facet="0" Icon="HEALER" X="4621" Y="2757"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="1143" Y="3642"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="2210" Y="3625"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="2571" Y="3632"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="2574" Y="3764"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="2561" Y="3713"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="2625" Y="3586"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="502" Y="1171"/>
+<Marker Name="Frogleg Bakery" Facet="0" Icon="COOKSGUILD" X="1510" Y="1568"/>
+<Marker Name="Blacksmith" Facet="0" Icon="BLACKSMITH" X="1422" Y="1552"/>
+<Marker Name="Stable" Facet="0" Icon="STABLE" X="1418" Y="1679"/>
+<Marker Name="Stable" Facet="0" Icon="STABLE" X="1458" Y="1706"/>
+<Marker Name="Healer" Facet="0" Icon="HEALER" X="1505" Y="1699"/>
+<Marker Name="NPC Vendors" Facet="0" Icon="LANDMARKX" X="1479" Y="1646"/>
+<Marker Name="Seasonal NPC" Facet="0" Icon="LANDMARKX" X="1415" Y="1688"/>
 
 </Pack>
